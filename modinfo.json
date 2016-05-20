@@ -1,0 +1,30 @@
+{
+  "context": "client",
+  "identifier": "no.pa.andreasg.supercommander_legion",
+  "display_name": "Supercommander Legion Map Pack",
+  "description": "Maps for the regular 1v1 Supercommander tournament",
+  "author": "andreasg",
+  "version": "1.0.0",
+  "build": "89528",
+  "date": "2016/05/20",
+  "signature": "not yet implemented",
+  "forum": "https://exodusesports.com/tournament/",
+  "icon": "https://exodusesports.com/wp-content/uploads/2015/09/sc_logo_weekly_trans_dark1-1024x576.png",
+  "category": [
+	  "map",
+	  "pack",
+	  "maps",
+	  "system",
+	  "planets",
+	  "planet",
+	  "systems"
+    ],
+    "load_planet": [
+        "coui://ui/mods/supercommander/maplist.js"
+    ],
+	"priority": 100,
+    "enabled": true,
+    "dependencies": [
+        "com.pa.conundrum.cShareSystems"
+    ]
+}
