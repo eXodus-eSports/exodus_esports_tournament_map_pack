@@ -1,4 +1,4 @@
-cShareSystems.load_pas("1v1", [
+cShareSystems.load_pas("eXodus 1v1", [
 	"coui://ui/mods/maps/systems/aquarius.pas",
 	"coui://ui/mods/maps/systems/arctic.pas",
 	"coui://ui/mods/maps/systems/berg.pas",
@@ -63,9 +63,10 @@ cShareSystems.load_pas("1v1", [
 	"coui://ui/mods/maps/systems/chocke.pas",
 	"coui://ui/mods/maps/systems/the_faceoff.pas",	
 	"coui://ui/mods/maps/systems/gsystem.pas",
+	"coui://ui/mods/maps/systems/kinomo.pas",
 	"coui://ui/mods/maps/systems/finns_revenge.pas"		
 ]);
-cShareSystems.load_pas("2v2", [
+cShareSystems.load_pas("eXodus 2v2", [
 	"coui://ui/mods/maps/systems/lockery.pas",
 	"coui://ui/mods/maps/systems/trials.pas",
 	"coui://ui/mods/maps/systems/the_forgery.pas",
@@ -86,7 +87,7 @@ cShareSystems.load_pas("2v2", [
 	"coui://ui/mods/maps/systems/fields_of_isis.pas",
 	"coui://ui/mods/maps/systems/duel_lake.pas"
 ]);
-cShareSystems.load_pas("Clanwars Showdown", [
+cShareSystems.load_pas("eXodus Clanwars", [
 	"coui://ui/mods/maps/systems/bang_battle.pas",	
 	"coui://ui/mods/maps/systems/burnt_playground.pas",	
 	"coui://ui/mods/maps/systems/marshalls_lament_titans.pas",	
