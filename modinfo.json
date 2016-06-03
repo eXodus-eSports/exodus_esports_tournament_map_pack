@@ -1,15 +1,15 @@
 {
   "context": "client",
-  "identifier": "no.pa.andreasg.supercommander_legion",
-  "display_name": "Supercommander Legion Map Pack",
-  "description": "Maps for the regular 1v1 Supercommander tournament",
-  "author": "andreasg",
+  "identifier": "com.exodusesports.tournamentmappack",
+  "display_name": "eXodus eSports Tournament MapPack",
+  "description": "All the maps you need for eXodus eSport events",
+  "author": "eXodus eSports",
   "version": "1.0.0",
-  "build": "89528",
-  "date": "2016/05/20",
+  "build": "94684",
+  "date": "2016/06/03",
   "signature": "not yet implemented",
   "forum": "https://exodusesports.com/tournament/",
-  "icon": "https://exodusesports.com/wp-content/uploads/2015/09/sc_logo_weekly_trans_dark1-1024x576.png",
+  "icon": "https://drive.google.com/file/d/0B8IN6ZgbbeBcbWQzNUlxakFoZnc/view?usp=sharing",
   "category": [
 	  "map",
 	  "pack",
@@ -20,7 +20,7 @@
 	  "systems"
     ],
     "load_planet": [
-        "coui://ui/mods/supercommander/maplist.js"
+        "coui://ui/mods/maps/maplist.js"
     ],
 	"priority": 100,
     "enabled": true,
