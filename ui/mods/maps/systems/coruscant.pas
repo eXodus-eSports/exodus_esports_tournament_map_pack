@@ -1,8 +1,8 @@
 {
     "name": "Coruscant",
     "creator": "Alpha2546",
-    "version": "1.0",
-    "date": "2015/05/17",
+    "version": "2.0",
+    "date": "2016/07/12",
     "description": "A small moon with some cheeky trenches and chokes. Preferred to play with 6 players SHARED.",
     "planets": [
         {
@@ -14,6 +14,10 @@
             "velocity_y": 153.53756713867188,
             "required_thrust_to_move": 4,
             "starting_planet": true,
+            "respawn": false,
+            "start_destroyed": false,
+            "min_spawn_delay": 0,
+            "max_spawn_delay": 0,
             "planet": {
                 "seed": 1411005312,
                 "radius": 350,
@@ -23,6 +27,7 @@
                 "temperature": 0,
                 "metalDensity": 0,
                 "metalClusters": 0,
+                "metalSpotLimit": -1,
                 "biomeScale": 50,
                 "biome": "moon",
                 "symmetryType": "terrain and CSG",
@@ -77,17 +82,11 @@
                             1
                         ],
                         "mirrored": false,
-                        "twinId": 4,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": true,
                         "mergeable": true,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_02.json",
@@ -132,17 +131,11 @@
                             1
                         ],
                         "mirrored": true,
-                        "twinId": 4,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": true,
                         "mergeable": true,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_02.json",
@@ -187,17 +180,11 @@
                             1
                         ],
                         "mirrored": false,
-                        "twinId": 5,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": true,
                         "mergeable": true,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_02.json",
@@ -242,17 +229,11 @@
                             1
                         ],
                         "mirrored": true,
-                        "twinId": 5,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": true,
                         "mergeable": true,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_08.json",
@@ -297,17 +278,11 @@
                             1
                         ],
                         "mirrored": false,
-                        "twinId": 7,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": false,
                         "mergeable": false,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_08.json",
@@ -352,17 +327,11 @@
                             1
                         ],
                         "mirrored": true,
-                        "twinId": 7,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": false,
                         "mergeable": false,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_08.json",
@@ -407,17 +376,11 @@
                             1
                         ],
                         "mirrored": false,
-                        "twinId": 8,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": false,
                         "mergeable": false,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_08.json",
@@ -462,17 +425,11 @@
                             1
                         ],
                         "mirrored": true,
-                        "twinId": 8,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": false,
                         "mergeable": false,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
@@ -517,17 +474,11 @@
                             1
                         ],
                         "mirrored": false,
-                        "twinId": 9,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": false,
                         "mergeable": false,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
@@ -572,17 +523,11 @@
                             1
                         ],
                         "mirrored": true,
-                        "twinId": 9,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": false,
                         "mergeable": false,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
@@ -627,17 +572,11 @@
                             1
                         ],
                         "mirrored": false,
-                        "twinId": 10,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": false,
                         "mergeable": false,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
@@ -682,17 +621,11 @@
                             1
                         ],
                         "mirrored": true,
-                        "twinId": 10,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": false,
                         "mergeable": false,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_02.json",
@@ -737,17 +670,11 @@
                             1
                         ],
                         "mirrored": false,
-                        "twinId": 11,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": true,
                         "mergeable": true,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_02.json",
@@ -792,17 +719,11 @@
                             1
                         ],
                         "mirrored": true,
-                        "twinId": 11,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": true,
                         "mergeable": true,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_08.json",
@@ -847,17 +768,11 @@
                             1
                         ],
                         "mirrored": false,
-                        "twinId": 12,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": false,
                         "mergeable": false,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_08.json",
@@ -902,17 +817,11 @@
                             1
                         ],
                         "mirrored": true,
-                        "twinId": 12,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": false,
                         "mergeable": false,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_trench_11_sub.json",
@@ -957,17 +866,11 @@
                             1
                         ],
                         "mirrored": false,
-                        "twinId": 15,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": true,
                         "mergeable": false,
-                        "no_features": true,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": true
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_trench_11_sub.json",
@@ -1012,17 +915,11 @@
                             1
                         ],
                         "mirrored": true,
-                        "twinId": 15,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": true,
                         "mergeable": false,
-                        "no_features": true,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": true
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_trench_11_sub.json",
@@ -1067,17 +964,11 @@
                             1
                         ],
                         "mirrored": false,
-                        "twinId": 18,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": true,
                         "mergeable": false,
-                        "no_features": true,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": true
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_trench_11_sub.json",
@@ -1122,17 +1013,11 @@
                             1
                         ],
                         "mirrored": true,
-                        "twinId": 18,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": true,
                         "mergeable": false,
-                        "no_features": true,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": true
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
@@ -1177,17 +1062,11 @@
                             1
                         ],
                         "mirrored": false,
-                        "twinId": 19,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": false,
                         "mergeable": false,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
@@ -1232,17 +1111,11 @@
                             1
                         ],
                         "mirrored": true,
-                        "twinId": 19,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": false,
                         "mergeable": false,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_trench_11_sub.json",
@@ -1258,15 +1131,15 @@
                             -0.30439281463623047,
                             -0.5906715393066406,
                             -0.5459417104721069,
-                            -224.87191772460938,
+                            -226.7763671875,
                             -0.2797585129737854,
                             0.625031590461731,
                             -0.5202603936195374,
-                            -214.29385375976562,
+                            -216.1087188720703,
                             0.7541089057922363,
                             -0.006548464298248291,
                             -0.41337254643440247,
-                            -170.2670440673828
+                            -171.70904541015625
                         ],
                         "scale": [
                             0.8600001335144043,
@@ -1279,7 +1152,7 @@
                             -211.8740234375,
                             -168.344482421875
                         ],
-                        "height": 354.23175048828125,
+                        "height": 357.23175048828125,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1287,17 +1160,11 @@
                             1
                         ],
                         "mirrored": false,
-                        "twinId": 21,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": true,
                         "mergeable": false,
-                        "no_features": true,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": true
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_trench_11_sub.json",
@@ -1313,15 +1180,15 @@
                             -0.30439281463623047,
                             -0.5906715393066406,
                             -0.5459417104721069,
-                            -224.87191772460938,
+                            -226.7763671875,
                             -0.2797585129737854,
                             0.625031590461731,
                             -0.5202603936195374,
-                            -214.29385375976562,
+                            -216.1087188720703,
                             -0.7541089057922363,
                             0.006548464298248291,
                             0.41337254643440247,
-                            170.2670440673828
+                            171.70904541015625
                         ],
                         "scale": [
                             0.8600001335144043,
@@ -1334,7 +1201,7 @@
                             -211.8740234375,
                             -168.344482421875
                         ],
-                        "height": 354.23175048828125,
+                        "height": 357.23175048828125,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1342,17 +1209,11 @@
                             1
                         ],
                         "mirrored": true,
-                        "twinId": 21,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": true,
                         "mergeable": false,
-                        "no_features": true,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": true
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_trench_11_sub.json",
@@ -1368,15 +1229,15 @@
                             -0.3224194347858429,
                             -0.5462703108787537,
                             -0.5807190537452698,
-                            -239.04226684570312,
+                            -241.06802368164062,
                             -0.2583979070186615,
                             0.664193868637085,
                             -0.4813286066055298,
-                            -198.13003540039062,
+                            -199.80908203125,
                             0.7542388439178467,
                             -0.0059687793254852295,
                             -0.41314414143562317,
-                            -170.0631561279297
+                            -171.5043487548828
                         ],
                         "scale": [
                             0.8600001335144043,
@@ -1389,7 +1250,7 @@
                             -195.89134216308594,
                             -168.14163208007812
                         ],
-                        "height": 354.003173828125,
+                        "height": 357.003173828125,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1397,17 +1258,11 @@
                             1
                         ],
                         "mirrored": false,
-                        "twinId": 22,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": true,
                         "mergeable": false,
-                        "no_features": true,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": true
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_trench_11_sub.json",
@@ -1423,15 +1278,15 @@
                             -0.3224194347858429,
                             -0.5462703108787537,
                             -0.5807190537452698,
-                            -239.04226684570312,
+                            -241.0680389404297,
                             -0.2583979070186615,
                             0.664193868637085,
                             -0.4813286066055298,
-                            -198.13003540039062,
+                            -199.80908203125,
                             -0.7542388439178467,
                             0.0059687793254852295,
                             0.41314414143562317,
-                            170.0631561279297
+                            171.5043487548828
                         ],
                         "scale": [
                             0.8600001335144043,
@@ -1444,7 +1299,7 @@
                             -195.89134216308594,
                             -168.14163208007812
                         ],
-                        "height": 354.003173828125,
+                        "height": 357.003173828125,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1452,17 +1307,11 @@
                             1
                         ],
                         "mirrored": true,
-                        "twinId": 22,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": true,
                         "mergeable": false,
-                        "no_features": true,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": true
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_02.json",
@@ -1507,17 +1356,11 @@
                             1
                         ],
                         "mirrored": false,
-                        "twinId": 23,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": true,
                         "mergeable": true,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_02.json",
@@ -1562,17 +1405,11 @@
                             1
                         ],
                         "mirrored": true,
-                        "twinId": 23,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": true,
                         "mergeable": true,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_02.json",
@@ -1617,17 +1454,11 @@
                             1
                         ],
                         "mirrored": false,
-                        "twinId": 24,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": true,
                         "mergeable": true,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_02.json",
@@ -1672,17 +1503,11 @@
                             1
                         ],
                         "mirrored": true,
-                        "twinId": 24,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": true,
                         "mergeable": true,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_02.json",
@@ -1727,17 +1552,11 @@
                             1
                         ],
                         "mirrored": false,
-                        "twinId": 25,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": true,
                         "mergeable": true,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_02.json",
@@ -1782,17 +1601,11 @@
                             1
                         ],
                         "mirrored": true,
-                        "twinId": 25,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": true,
                         "mergeable": true,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_08.json",
@@ -1837,17 +1650,11 @@
                             1
                         ],
                         "mirrored": false,
-                        "twinId": 26,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": false,
                         "mergeable": false,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_08.json",
@@ -1892,17 +1699,11 @@
                             1
                         ],
                         "mirrored": true,
-                        "twinId": 26,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": false,
                         "mergeable": false,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_08.json",
@@ -1947,17 +1748,11 @@
                             1
                         ],
                         "mirrored": false,
-                        "twinId": 27,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": false,
                         "mergeable": false,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_08.json",
@@ -2002,17 +1797,11 @@
                             1
                         ],
                         "mirrored": true,
-                        "twinId": 27,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": false,
                         "mergeable": false,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_08.json",
@@ -2057,17 +1846,11 @@
                             1
                         ],
                         "mirrored": false,
-                        "twinId": 28,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": false,
                         "mergeable": false,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_08.json",
@@ -2112,17 +1895,11 @@
                             1
                         ],
                         "mirrored": true,
-                        "twinId": 28,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": false,
                         "mergeable": false,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_02.json",
@@ -2167,17 +1944,11 @@
                             1
                         ],
                         "mirrored": false,
-                        "twinId": 30,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": true,
                         "mergeable": true,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_02.json",
@@ -2222,17 +1993,11 @@
                             1
                         ],
                         "mirrored": true,
-                        "twinId": 30,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": true,
                         "mergeable": true,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_02.json",
@@ -2277,17 +2042,11 @@
                             1
                         ],
                         "mirrored": false,
-                        "twinId": 32,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": true,
                         "mergeable": true,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_02.json",
@@ -2332,17 +2091,11 @@
                             1
                         ],
                         "mirrored": true,
-                        "twinId": 32,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": true,
                         "mergeable": true,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_02.json",
@@ -2387,17 +2140,11 @@
                             1
                         ],
                         "mirrored": false,
-                        "twinId": 33,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": true,
                         "mergeable": true,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_02.json",
@@ -2442,17 +2189,11 @@
                             1
                         ],
                         "mirrored": true,
-                        "twinId": 33,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": true,
                         "mergeable": true,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_08.json",
@@ -2497,17 +2238,11 @@
                             1
                         ],
                         "mirrored": false,
-                        "twinId": 34,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": false,
                         "mergeable": false,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_08.json",
@@ -2552,17 +2287,11 @@
                             1
                         ],
                         "mirrored": true,
-                        "twinId": 34,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": false,
                         "mergeable": false,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_08.json",
@@ -2607,17 +2336,11 @@
                             1
                         ],
                         "mirrored": false,
-                        "twinId": 36,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": false,
                         "mergeable": false,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_08.json",
@@ -2662,17 +2385,11 @@
                             1
                         ],
                         "mirrored": true,
-                        "twinId": 36,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": false,
                         "mergeable": false,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_08.json",
@@ -2717,17 +2434,11 @@
                             1
                         ],
                         "mirrored": false,
-                        "twinId": 37,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": false,
                         "mergeable": false,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_08.json",
@@ -2772,237 +2483,11 @@
                             1
                         ],
                         "mirrored": true,
-                        "twinId": 37,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": false,
                         "mergeable": false,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
-                    },
-                    {
-                        "spec": "/pa/terrain/metal/brushes/metal_structure_02.json",
-                        "weight": [
-                            1,
-                            1,
-                            1,
-                            1
-                        ],
-                        "proj": "BP_Bend",
-                        "op": "BO_Add",
-                        "transform": [
-                            -0.5983047485351562,
-                            -0.9923186302185059,
-                            -0.30136439204216003,
-                            -224.59274291992188,
-                            -0.48971807956695557,
-                            1.1378095149993896,
-                            -0.2687777578830719,
-                            -200.3074493408203,
-                            1.2970377206802368,
-                            -0.028143346309661865,
-                            -0.24049653112888336,
-                            -179.2307891845703
-                        ],
-                        "scale": [
-                            1.5099995136260986,
-                            1.5099995136260986,
-                            0.4700005054473877
-                        ],
-                        "rotation": 0.7499998211860657,
-                        "position": [
-                            -224.59275817871094,
-                            -200.30746459960938,
-                            -179.23068237304688
-                        ],
-                        "height": 350.26934814453125,
-                        "weightHard": false,
-                        "weightScale": [
-                            1,
-                            1,
-                            1
-                        ],
-                        "mirrored": false,
-                        "twinId": 39,
-                        "flooded": false,
-                        "pathable": true,
-                        "mergeable": true,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
-                    },
-                    {
-                        "spec": "/pa/terrain/metal/brushes/metal_structure_02.json",
-                        "weight": [
-                            1,
-                            1,
-                            1,
-                            1
-                        ],
-                        "proj": "BP_Bend",
-                        "op": "BO_Add",
-                        "transform": [
-                            -0.5983047485351562,
-                            -0.9923186302185059,
-                            -0.30136439204216003,
-                            -224.59274291992188,
-                            -0.48971807956695557,
-                            1.1378095149993896,
-                            -0.2687777578830719,
-                            -200.3074493408203,
-                            -1.2970377206802368,
-                            0.028143346309661865,
-                            0.24049653112888336,
-                            179.2307891845703
-                        ],
-                        "scale": [
-                            1.5099995136260986,
-                            1.5099995136260986,
-                            0.4700005054473877
-                        ],
-                        "rotation": 0.7499998211860657,
-                        "position": [
-                            -224.59275817871094,
-                            -200.30746459960938,
-                            -179.23068237304688
-                        ],
-                        "height": 350.26934814453125,
-                        "weightHard": false,
-                        "weightScale": [
-                            1,
-                            1,
-                            1
-                        ],
-                        "mirrored": true,
-                        "twinId": 39,
-                        "flooded": false,
-                        "pathable": true,
-                        "mergeable": true,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
-                    },
-                    {
-                        "spec": "/pa/terrain/metal/brushes/metal_structure_02.json",
-                        "weight": [
-                            1,
-                            1,
-                            1,
-                            1
-                        ],
-                        "proj": "BP_Bend",
-                        "op": "BO_Add",
-                        "transform": [
-                            -0.09119793772697449,
-                            -0.9971594214439392,
-                            -0.35179874300956726,
-                            -261.80535888671875,
-                            -0.06406879425048828,
-                            1.1338536739349365,
-                            -0.3097563087940216,
-                            -230.5177764892578,
-                            1.5058808326721191,
-                            -0.012148559093475342,
-                            -0.034484151750802994,
-                            -25.66278648376465
-                        ],
-                        "scale": [
-                            1.5099995136260986,
-                            1.5099995136260986,
-                            0.4700005054473877
-                        ],
-                        "rotation": 0.729999840259552,
-                        "position": [
-                            -261.80535888671875,
-                            -230.5177764892578,
-                            -25.66278648376465
-                        ],
-                        "height": 349.77001953125,
-                        "weightHard": false,
-                        "weightScale": [
-                            1,
-                            1,
-                            1
-                        ],
-                        "mirrored": false,
-                        "twinId": 40,
-                        "flooded": false,
-                        "pathable": true,
-                        "mergeable": true,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
-                    },
-                    {
-                        "spec": "/pa/terrain/metal/brushes/metal_structure_02.json",
-                        "weight": [
-                            1,
-                            1,
-                            1,
-                            1
-                        ],
-                        "proj": "BP_Bend",
-                        "op": "BO_Add",
-                        "transform": [
-                            -0.09119793772697449,
-                            -0.9971594214439392,
-                            -0.35179874300956726,
-                            -261.80535888671875,
-                            -0.06406879425048828,
-                            1.1338536739349365,
-                            -0.3097563087940216,
-                            -230.5177764892578,
-                            -1.5058808326721191,
-                            0.012148559093475342,
-                            0.034484151750802994,
-                            25.66278648376465
-                        ],
-                        "scale": [
-                            1.5099995136260986,
-                            1.5099995136260986,
-                            0.4700005054473877
-                        ],
-                        "rotation": 0.729999840259552,
-                        "position": [
-                            -261.80535888671875,
-                            -230.5177764892578,
-                            -25.66278648376465
-                        ],
-                        "height": 349.77001953125,
-                        "weightHard": false,
-                        "weightScale": [
-                            1,
-                            1,
-                            1
-                        ],
-                        "mirrored": true,
-                        "twinId": 40,
-                        "flooded": false,
-                        "pathable": true,
-                        "mergeable": true,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_trench_11_sub.json",
@@ -3047,17 +2532,11 @@
                             1
                         ],
                         "mirrored": false,
-                        "twinId": 41,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": true,
                         "mergeable": false,
-                        "no_features": true,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": true
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_trench_11_sub.json",
@@ -3102,17 +2581,11 @@
                             1
                         ],
                         "mirrored": true,
-                        "twinId": 41,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": true,
                         "mergeable": false,
-                        "no_features": true,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": true
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_trench_11_sub.json",
@@ -3157,17 +2630,11 @@
                             1
                         ],
                         "mirrored": false,
-                        "twinId": 43,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": true,
                         "mergeable": false,
-                        "no_features": true,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": true
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_trench_11_sub.json",
@@ -3212,127 +2679,11 @@
                             1
                         ],
                         "mirrored": true,
-                        "twinId": 43,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": true,
                         "mergeable": false,
-                        "no_features": true,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
-                    },
-                    {
-                        "spec": "/pa/terrain/metal/brushes/metal_structure_02.json",
-                        "weight": [
-                            1,
-                            1,
-                            1,
-                            1
-                        ],
-                        "proj": "BP_Bend",
-                        "op": "BO_Add",
-                        "transform": [
-                            1.858489990234375,
-                            0.7941279411315918,
-                            0.45609357953071594,
-                            200.98193359375,
-                            1.5686482191085815,
-                            -1.3827781677246094,
-                            -0.42136895656585693,
-                            -185.68020629882812,
-                            0.3700690269470215,
-                            1.873199701309204,
-                            -0.5044077038764954,
-                            -222.27200317382812
-                        ],
-                        "scale": [
-                            2.459998607635498,
-                            2.459998607635498,
-                            0.8000003099441528
-                        ],
-                        "rotation": 1.019999623298645,
-                        "position": [
-                            200.41183471679688,
-                            -185.15350341796875,
-                            -221.64157104492188
-                        ],
-                        "height": 352.5276794433594,
-                        "weightHard": false,
-                        "weightScale": [
-                            1,
-                            1,
-                            1
-                        ],
-                        "mirrored": false,
-                        "twinId": 44,
-                        "flooded": false,
-                        "pathable": true,
-                        "mergeable": true,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
-                    },
-                    {
-                        "spec": "/pa/terrain/metal/brushes/metal_structure_02.json",
-                        "weight": [
-                            1,
-                            1,
-                            1,
-                            1
-                        ],
-                        "proj": "BP_Bend",
-                        "op": "BO_Add",
-                        "transform": [
-                            1.858489990234375,
-                            0.7941279411315918,
-                            0.45609357953071594,
-                            200.98194885253906,
-                            1.5686482191085815,
-                            -1.3827781677246094,
-                            -0.42136895656585693,
-                            -185.68020629882812,
-                            -0.3700690269470215,
-                            -1.873199701309204,
-                            0.5044077038764954,
-                            222.2720184326172
-                        ],
-                        "scale": [
-                            2.459998607635498,
-                            2.459998607635498,
-                            0.8000003099441528
-                        ],
-                        "rotation": 1.019999623298645,
-                        "position": [
-                            200.41183471679688,
-                            -185.15350341796875,
-                            -221.64157104492188
-                        ],
-                        "height": 352.5276794433594,
-                        "weightHard": false,
-                        "weightScale": [
-                            1,
-                            1,
-                            1
-                        ],
-                        "mirrored": true,
-                        "twinId": 44,
-                        "flooded": false,
-                        "pathable": true,
-                        "mergeable": true,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": true
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_04.json",
@@ -3377,17 +2728,11 @@
                             1
                         ],
                         "mirrored": false,
-                        "twinId": 45,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": false,
                         "mergeable": false,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_04.json",
@@ -3432,17 +2777,11 @@
                             1
                         ],
                         "mirrored": true,
-                        "twinId": 45,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": false,
                         "mergeable": false,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_04.json",
@@ -3487,17 +2826,11 @@
                             1
                         ],
                         "mirrored": false,
-                        "twinId": 46,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": false,
                         "mergeable": false,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_04.json",
@@ -3542,17 +2875,11 @@
                             1
                         ],
                         "mirrored": true,
-                        "twinId": 46,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": false,
                         "mergeable": false,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_04.json",
@@ -3597,17 +2924,11 @@
                             1
                         ],
                         "mirrored": false,
-                        "twinId": 47,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": false,
                         "mergeable": false,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_04.json",
@@ -3652,17 +2973,11 @@
                             1
                         ],
                         "mirrored": true,
-                        "twinId": 47,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": false,
                         "mergeable": false,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_04.json",
@@ -3707,17 +3022,11 @@
                             1
                         ],
                         "mirrored": false,
-                        "twinId": 48,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": false,
                         "mergeable": false,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_04.json",
@@ -3762,17 +3071,11 @@
                             1
                         ],
                         "mirrored": true,
-                        "twinId": 48,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": false,
                         "mergeable": false,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_03.json",
@@ -3817,17 +3120,11 @@
                             1
                         ],
                         "mirrored": false,
-                        "twinId": 51,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": false,
                         "mergeable": false,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_03.json",
@@ -3872,17 +3169,11 @@
                             1
                         ],
                         "mirrored": true,
-                        "twinId": 51,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": false,
                         "mergeable": false,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_03.json",
@@ -3927,17 +3218,11 @@
                             1
                         ],
                         "mirrored": false,
-                        "twinId": 52,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": false,
                         "mergeable": false,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
-                            1
-                        ]
+                        "no_features": false
                     },
                     {
                         "spec": "/pa/terrain/metal/brushes/metal_structure_03.json",
@@ -3982,17 +3267,158 @@
                             1
                         ],
                         "mirrored": true,
-                        "twinId": 52,
+                        "twinId": 0,
                         "flooded": false,
                         "pathable": false,
                         "mergeable": false,
-                        "no_features": false,
-                        "biomeColor": [
-                            0,
-                            0,
-                            0,
+                        "no_features": false
+                    },
+                    {
+                        "spec": "/pa/terrain/metal/brushes/metal_t2_small_2_ramp.json",
+                        "weight": [
+                            1,
+                            1,
+                            1,
                             1
-                        ]
+                        ],
+                        "proj": "BP_Bend",
+                        "op": "BO_Add",
+                        "transform": [
+                            -0.2577711045742035,
+                            -0.4939061999320984,
+                            -0.48704326152801514,
+                            -224.55322265625,
+                            -0.2366982251405716,
+                            0.551030158996582,
+                            -0.433520644903183,
+                            -199.87640380859375,
+                            0.6520187854766846,
+                            0.004774570465087891,
+                            -0.3499274253845215,
+                            -161.33543395996094
+                        ],
+                        "scale": [
+                            0.7400002479553223,
+                            0.7400002479553223,
+                            0.7400002479553223
+                        ],
+                        "rotation": 0.7199998497962952,
+                        "position": [
+                            -230.47671508789062,
+                            -205.14895629882812,
+                            -165.59124755859375
+                        ],
+                        "height": 341.1800537109375,
+                        "weightHard": false,
+                        "weightScale": [
+                            1,
+                            1,
+                            1
+                        ],
+                        "mirrored": false,
+                        "twinId": 0,
+                        "flooded": false,
+                        "pathable": true,
+                        "mergeable": false,
+                        "no_features": true
+                    },
+                    {
+                        "spec": "/pa/terrain/metal/brushes/metal_t2_small_2_ramp.json",
+                        "weight": [
+                            1,
+                            1,
+                            1,
+                            1
+                        ],
+                        "proj": "BP_Bend",
+                        "op": "BO_Add",
+                        "transform": [
+                            -0.2577711045742035,
+                            -0.4939061999320984,
+                            -0.48704326152801514,
+                            -224.55322265625,
+                            -0.2366982251405716,
+                            0.551030158996582,
+                            -0.433520644903183,
+                            -199.87640380859375,
+                            -0.6520187854766846,
+                            -0.004774570465087891,
+                            0.3499274253845215,
+                            161.33543395996094
+                        ],
+                        "scale": [
+                            0.7400002479553223,
+                            0.7400002479553223,
+                            0.7400002479553223
+                        ],
+                        "rotation": 0.7199998497962952,
+                        "position": [
+                            -230.47671508789062,
+                            -205.14895629882812,
+                            -165.59124755859375
+                        ],
+                        "height": 341.1800537109375,
+                        "weightHard": false,
+                        "weightScale": [
+                            1,
+                            1,
+                            1
+                        ],
+                        "mirrored": true,
+                        "twinId": 0,
+                        "flooded": false,
+                        "pathable": true,
+                        "mergeable": false,
+                        "no_features": true
+                    },
+                    {
+                        "spec": "/pa/terrain/metal/brushes/metal_t2_medium_wide_ramp.json",
+                        "weight": [
+                            1,
+                            1,
+                            1,
+                            1
+                        ],
+                        "proj": "BP_Bend",
+                        "op": "BO_Add",
+                        "transform": [
+                            0.0004038512706756592,
+                            -0.5402939319610596,
+                            -0.6034753918647766,
+                            -250.82363891601562,
+                            0.00012826919555664062,
+                            0.6034755706787109,
+                            -0.5402938723564148,
+                            -224.56336975097656,
+                            0.8100000023841858,
+                            0.00017380714416503906,
+                            0.00038643128937110305,
+                            0.16061317920684814
+                        ],
+                        "scale": [
+                            0.8100001811981201,
+                            0.8100001811981201,
+                            0.8100001811981201
+                        ],
+                        "rotation": 0.7299998998641968,
+                        "position": [
+                            -260.5090637207031,
+                            -233.23477172851562,
+                            0.16683197021484375
+                        ],
+                        "height": 336.66192626953125,
+                        "weightHard": false,
+                        "weightScale": [
+                            1,
+                            1,
+                            1
+                        ],
+                        "mirrored": false,
+                        "twinId": 0,
+                        "flooded": false,
+                        "pathable": true,
+                        "mergeable": false,
+                        "no_features": true
                     }
                 ],
                 "metal_spots": [
@@ -4321,7 +3747,31 @@
                         190.75033569335938,
                         292.46319580078125
                     ]
-                ]
+                ],
+                "landing_zones": {
+                    "list": [
+                        [
+                            0.47945404052734375,
+                            65.20654296875,
+                            343.46527099609375
+                        ],
+                        [
+                            0.47945404052734375,
+                            65.20654296875,
+                            -343.46527099609375
+                        ]
+                    ],
+                    "rules": [
+                        {
+                            "min": 0,
+                            "max": 10
+                        },
+                        {
+                            "min": 0,
+                            "max": 10
+                        }
+                    ]
+                }
             },
             "planetCSG": [
                 {
@@ -4367,17 +3817,11 @@
                         1
                     ],
                     "mirrored": false,
-                    "twinId": 4,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": true,
                     "mergeable": true,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -4422,17 +3866,11 @@
                         1
                     ],
                     "mirrored": true,
-                    "twinId": 4,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": true,
                     "mergeable": true,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -4477,17 +3915,11 @@
                         1
                     ],
                     "mirrored": false,
-                    "twinId": 5,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": true,
                     "mergeable": true,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -4532,17 +3964,11 @@
                         1
                     ],
                     "mirrored": true,
-                    "twinId": 5,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": true,
                     "mergeable": true,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -4587,17 +4013,11 @@
                         1
                     ],
                     "mirrored": false,
-                    "twinId": 7,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": false,
                     "mergeable": false,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -4642,17 +4062,11 @@
                         1
                     ],
                     "mirrored": true,
-                    "twinId": 7,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": false,
                     "mergeable": false,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -4697,17 +4111,11 @@
                         1
                     ],
                     "mirrored": false,
-                    "twinId": 8,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": false,
                     "mergeable": false,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -4752,17 +4160,11 @@
                         1
                     ],
                     "mirrored": true,
-                    "twinId": 8,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": false,
                     "mergeable": false,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -4807,17 +4209,11 @@
                         1
                     ],
                     "mirrored": false,
-                    "twinId": 9,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": false,
                     "mergeable": false,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -4862,17 +4258,11 @@
                         1
                     ],
                     "mirrored": true,
-                    "twinId": 9,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": false,
                     "mergeable": false,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -4917,17 +4307,11 @@
                         1
                     ],
                     "mirrored": false,
-                    "twinId": 10,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": false,
                     "mergeable": false,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -4972,17 +4356,11 @@
                         1
                     ],
                     "mirrored": true,
-                    "twinId": 10,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": false,
                     "mergeable": false,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -5027,17 +4405,11 @@
                         1
                     ],
                     "mirrored": false,
-                    "twinId": 11,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": true,
                     "mergeable": true,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -5082,17 +4454,11 @@
                         1
                     ],
                     "mirrored": true,
-                    "twinId": 11,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": true,
                     "mergeable": true,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -5137,17 +4503,11 @@
                         1
                     ],
                     "mirrored": false,
-                    "twinId": 12,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": false,
                     "mergeable": false,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -5192,17 +4552,11 @@
                         1
                     ],
                     "mirrored": true,
-                    "twinId": 12,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": false,
                     "mergeable": false,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -5247,17 +4601,11 @@
                         1
                     ],
                     "mirrored": false,
-                    "twinId": 15,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": true,
                     "mergeable": false,
-                    "no_features": true,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": true
                 },
                 {
                     "weight": [
@@ -5302,17 +4650,11 @@
                         1
                     ],
                     "mirrored": true,
-                    "twinId": 15,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": true,
                     "mergeable": false,
-                    "no_features": true,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": true
                 },
                 {
                     "weight": [
@@ -5357,17 +4699,11 @@
                         1
                     ],
                     "mirrored": false,
-                    "twinId": 18,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": true,
                     "mergeable": false,
-                    "no_features": true,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": true
                 },
                 {
                     "weight": [
@@ -5412,17 +4748,11 @@
                         1
                     ],
                     "mirrored": true,
-                    "twinId": 18,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": true,
                     "mergeable": false,
-                    "no_features": true,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": true
                 },
                 {
                     "weight": [
@@ -5467,17 +4797,11 @@
                         1
                     ],
                     "mirrored": false,
-                    "twinId": 19,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": false,
                     "mergeable": false,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -5522,17 +4846,11 @@
                         1
                     ],
                     "mirrored": true,
-                    "twinId": 19,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": false,
                     "mergeable": false,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -5547,15 +4865,15 @@
                         -0.30439281463623047,
                         -0.5906715393066406,
                         -0.5459417104721069,
-                        -224.87191772460938,
+                        -226.7763671875,
                         -0.2797585129737854,
                         0.625031590461731,
                         -0.5202603936195374,
-                        -214.29385375976562,
+                        -216.1087188720703,
                         0.7541089057922363,
                         -0.006548464298248291,
                         -0.41337254643440247,
-                        -170.2670440673828
+                        -171.70904541015625
                     ],
                     "op": "BO_Subtract",
                     "rotation": 0.7699995636940002,
@@ -5564,7 +4882,7 @@
                         0.8600001335144043,
                         0.8600001335144043
                     ],
-                    "height": 354.23175048828125,
+                    "height": 357.23175048828125,
                     "position": [
                         -222.3326416015625,
                         -211.8740234375,
@@ -5577,17 +4895,11 @@
                         1
                     ],
                     "mirrored": false,
-                    "twinId": 21,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": true,
                     "mergeable": false,
-                    "no_features": true,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": true
                 },
                 {
                     "weight": [
@@ -5602,15 +4914,15 @@
                         -0.30439281463623047,
                         -0.5906715393066406,
                         -0.5459417104721069,
-                        -224.87191772460938,
+                        -226.7763671875,
                         -0.2797585129737854,
                         0.625031590461731,
                         -0.5202603936195374,
-                        -214.29385375976562,
+                        -216.1087188720703,
                         -0.7541089057922363,
                         0.006548464298248291,
                         0.41337254643440247,
-                        170.2670440673828
+                        171.70904541015625
                     ],
                     "op": "BO_Subtract",
                     "rotation": 0.7699995636940002,
@@ -5619,7 +4931,7 @@
                         0.8600001335144043,
                         0.8600001335144043
                     ],
-                    "height": 354.23175048828125,
+                    "height": 357.23175048828125,
                     "position": [
                         -222.3326416015625,
                         -211.8740234375,
@@ -5632,17 +4944,11 @@
                         1
                     ],
                     "mirrored": true,
-                    "twinId": 21,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": true,
                     "mergeable": false,
-                    "no_features": true,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": true
                 },
                 {
                     "weight": [
@@ -5657,15 +4963,15 @@
                         -0.3224194347858429,
                         -0.5462703108787537,
                         -0.5807190537452698,
-                        -239.04226684570312,
+                        -241.06802368164062,
                         -0.2583979070186615,
                         0.664193868637085,
                         -0.4813286066055298,
-                        -198.13003540039062,
+                        -199.80908203125,
                         0.7542388439178467,
                         -0.0059687793254852295,
                         -0.41314414143562317,
-                        -170.0631561279297
+                        -171.5043487548828
                     ],
                     "op": "BO_Subtract",
                     "rotation": 0.6999996304512024,
@@ -5674,7 +4980,7 @@
                         0.8600001335144043,
                         0.8600001335144043
                     ],
-                    "height": 354.003173828125,
+                    "height": 357.003173828125,
                     "position": [
                         -236.34127807617188,
                         -195.89134216308594,
@@ -5687,17 +4993,11 @@
                         1
                     ],
                     "mirrored": false,
-                    "twinId": 22,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": true,
                     "mergeable": false,
-                    "no_features": true,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": true
                 },
                 {
                     "weight": [
@@ -5712,15 +5012,15 @@
                         -0.3224194347858429,
                         -0.5462703108787537,
                         -0.5807190537452698,
-                        -239.04226684570312,
+                        -241.0680389404297,
                         -0.2583979070186615,
                         0.664193868637085,
                         -0.4813286066055298,
-                        -198.13003540039062,
+                        -199.80908203125,
                         -0.7542388439178467,
                         0.0059687793254852295,
                         0.41314414143562317,
-                        170.0631561279297
+                        171.5043487548828
                     ],
                     "op": "BO_Subtract",
                     "rotation": 0.6999996304512024,
@@ -5729,7 +5029,7 @@
                         0.8600001335144043,
                         0.8600001335144043
                     ],
-                    "height": 354.003173828125,
+                    "height": 357.003173828125,
                     "position": [
                         -236.34127807617188,
                         -195.89134216308594,
@@ -5742,17 +5042,11 @@
                         1
                     ],
                     "mirrored": true,
-                    "twinId": 22,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": true,
                     "mergeable": false,
-                    "no_features": true,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": true
                 },
                 {
                     "weight": [
@@ -5797,17 +5091,11 @@
                         1
                     ],
                     "mirrored": false,
-                    "twinId": 23,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": true,
                     "mergeable": true,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -5852,17 +5140,11 @@
                         1
                     ],
                     "mirrored": true,
-                    "twinId": 23,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": true,
                     "mergeable": true,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -5907,17 +5189,11 @@
                         1
                     ],
                     "mirrored": false,
-                    "twinId": 24,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": true,
                     "mergeable": true,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -5962,17 +5238,11 @@
                         1
                     ],
                     "mirrored": true,
-                    "twinId": 24,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": true,
                     "mergeable": true,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -6017,17 +5287,11 @@
                         1
                     ],
                     "mirrored": false,
-                    "twinId": 25,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": true,
                     "mergeable": true,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -6072,17 +5336,11 @@
                         1
                     ],
                     "mirrored": true,
-                    "twinId": 25,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": true,
                     "mergeable": true,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -6127,17 +5385,11 @@
                         1
                     ],
                     "mirrored": false,
-                    "twinId": 26,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": false,
                     "mergeable": false,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -6182,17 +5434,11 @@
                         1
                     ],
                     "mirrored": true,
-                    "twinId": 26,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": false,
                     "mergeable": false,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -6237,17 +5483,11 @@
                         1
                     ],
                     "mirrored": false,
-                    "twinId": 27,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": false,
                     "mergeable": false,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -6292,17 +5532,11 @@
                         1
                     ],
                     "mirrored": true,
-                    "twinId": 27,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": false,
                     "mergeable": false,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -6347,17 +5581,11 @@
                         1
                     ],
                     "mirrored": false,
-                    "twinId": 28,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": false,
                     "mergeable": false,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -6402,17 +5630,11 @@
                         1
                     ],
                     "mirrored": true,
-                    "twinId": 28,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": false,
                     "mergeable": false,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -6457,17 +5679,11 @@
                         1
                     ],
                     "mirrored": false,
-                    "twinId": 30,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": true,
                     "mergeable": true,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -6512,17 +5728,11 @@
                         1
                     ],
                     "mirrored": true,
-                    "twinId": 30,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": true,
                     "mergeable": true,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -6567,17 +5777,11 @@
                         1
                     ],
                     "mirrored": false,
-                    "twinId": 32,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": true,
                     "mergeable": true,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -6622,17 +5826,11 @@
                         1
                     ],
                     "mirrored": true,
-                    "twinId": 32,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": true,
                     "mergeable": true,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -6677,17 +5875,11 @@
                         1
                     ],
                     "mirrored": false,
-                    "twinId": 33,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": true,
                     "mergeable": true,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -6732,17 +5924,11 @@
                         1
                     ],
                     "mirrored": true,
-                    "twinId": 33,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": true,
                     "mergeable": true,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -6787,17 +5973,11 @@
                         1
                     ],
                     "mirrored": false,
-                    "twinId": 34,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": false,
                     "mergeable": false,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -6842,17 +6022,11 @@
                         1
                     ],
                     "mirrored": true,
-                    "twinId": 34,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": false,
                     "mergeable": false,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -6897,17 +6071,11 @@
                         1
                     ],
                     "mirrored": false,
-                    "twinId": 36,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": false,
                     "mergeable": false,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -6952,17 +6120,11 @@
                         1
                     ],
                     "mirrored": true,
-                    "twinId": 36,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": false,
                     "mergeable": false,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -7007,17 +6169,11 @@
                         1
                     ],
                     "mirrored": false,
-                    "twinId": 37,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": false,
                     "mergeable": false,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -7062,237 +6218,11 @@
                         1
                     ],
                     "mirrored": true,
-                    "twinId": 37,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": false,
                     "mergeable": false,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
-                },
-                {
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_02.json",
-                    "proj": "BP_Bend",
-                    "transform": [
-                        -0.5983047485351562,
-                        -0.9923186302185059,
-                        -0.30136439204216003,
-                        -224.59274291992188,
-                        -0.48971807956695557,
-                        1.1378095149993896,
-                        -0.2687777578830719,
-                        -200.3074493408203,
-                        1.2970377206802368,
-                        -0.028143346309661865,
-                        -0.24049653112888336,
-                        -179.2307891845703
-                    ],
-                    "op": "BO_Add",
-                    "rotation": 0.7499998211860657,
-                    "scale": [
-                        1.5099995136260986,
-                        1.5099995136260986,
-                        0.4700005054473877
-                    ],
-                    "height": 350.26934814453125,
-                    "position": [
-                        -224.59275817871094,
-                        -200.30746459960938,
-                        -179.23068237304688
-                    ],
-                    "weightHard": false,
-                    "weightScale": [
-                        1,
-                        1,
-                        1
-                    ],
-                    "mirrored": false,
-                    "twinId": 39,
-                    "flooded": false,
-                    "pathable": true,
-                    "mergeable": true,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
-                },
-                {
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_02.json",
-                    "proj": "BP_Bend",
-                    "transform": [
-                        -0.5983047485351562,
-                        -0.9923186302185059,
-                        -0.30136439204216003,
-                        -224.59274291992188,
-                        -0.48971807956695557,
-                        1.1378095149993896,
-                        -0.2687777578830719,
-                        -200.3074493408203,
-                        -1.2970377206802368,
-                        0.028143346309661865,
-                        0.24049653112888336,
-                        179.2307891845703
-                    ],
-                    "op": "BO_Add",
-                    "rotation": 0.7499998211860657,
-                    "scale": [
-                        1.5099995136260986,
-                        1.5099995136260986,
-                        0.4700005054473877
-                    ],
-                    "height": 350.26934814453125,
-                    "position": [
-                        -224.59275817871094,
-                        -200.30746459960938,
-                        -179.23068237304688
-                    ],
-                    "weightHard": false,
-                    "weightScale": [
-                        1,
-                        1,
-                        1
-                    ],
-                    "mirrored": true,
-                    "twinId": 39,
-                    "flooded": false,
-                    "pathable": true,
-                    "mergeable": true,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
-                },
-                {
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_02.json",
-                    "proj": "BP_Bend",
-                    "transform": [
-                        -0.09119793772697449,
-                        -0.9971594214439392,
-                        -0.35179874300956726,
-                        -261.80535888671875,
-                        -0.06406879425048828,
-                        1.1338536739349365,
-                        -0.3097563087940216,
-                        -230.5177764892578,
-                        1.5058808326721191,
-                        -0.012148559093475342,
-                        -0.034484151750802994,
-                        -25.66278648376465
-                    ],
-                    "op": "BO_Add",
-                    "rotation": 0.729999840259552,
-                    "scale": [
-                        1.5099995136260986,
-                        1.5099995136260986,
-                        0.4700005054473877
-                    ],
-                    "height": 349.77001953125,
-                    "position": [
-                        -261.80535888671875,
-                        -230.5177764892578,
-                        -25.66278648376465
-                    ],
-                    "weightHard": false,
-                    "weightScale": [
-                        1,
-                        1,
-                        1
-                    ],
-                    "mirrored": false,
-                    "twinId": 40,
-                    "flooded": false,
-                    "pathable": true,
-                    "mergeable": true,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
-                },
-                {
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_02.json",
-                    "proj": "BP_Bend",
-                    "transform": [
-                        -0.09119793772697449,
-                        -0.9971594214439392,
-                        -0.35179874300956726,
-                        -261.80535888671875,
-                        -0.06406879425048828,
-                        1.1338536739349365,
-                        -0.3097563087940216,
-                        -230.5177764892578,
-                        -1.5058808326721191,
-                        0.012148559093475342,
-                        0.034484151750802994,
-                        25.66278648376465
-                    ],
-                    "op": "BO_Add",
-                    "rotation": 0.729999840259552,
-                    "scale": [
-                        1.5099995136260986,
-                        1.5099995136260986,
-                        0.4700005054473877
-                    ],
-                    "height": 349.77001953125,
-                    "position": [
-                        -261.80535888671875,
-                        -230.5177764892578,
-                        -25.66278648376465
-                    ],
-                    "weightHard": false,
-                    "weightScale": [
-                        1,
-                        1,
-                        1
-                    ],
-                    "mirrored": true,
-                    "twinId": 40,
-                    "flooded": false,
-                    "pathable": true,
-                    "mergeable": true,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -7337,17 +6267,11 @@
                         1
                     ],
                     "mirrored": false,
-                    "twinId": 41,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": true,
                     "mergeable": false,
-                    "no_features": true,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": true
                 },
                 {
                     "weight": [
@@ -7392,17 +6316,11 @@
                         1
                     ],
                     "mirrored": true,
-                    "twinId": 41,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": true,
                     "mergeable": false,
-                    "no_features": true,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": true
                 },
                 {
                     "weight": [
@@ -7447,17 +6365,11 @@
                         1
                     ],
                     "mirrored": false,
-                    "twinId": 43,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": true,
                     "mergeable": false,
-                    "no_features": true,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": true
                 },
                 {
                     "weight": [
@@ -7502,127 +6414,11 @@
                         1
                     ],
                     "mirrored": true,
-                    "twinId": 43,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": true,
                     "mergeable": false,
-                    "no_features": true,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
-                },
-                {
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_02.json",
-                    "proj": "BP_Bend",
-                    "transform": [
-                        1.858489990234375,
-                        0.7941279411315918,
-                        0.45609357953071594,
-                        200.98193359375,
-                        1.5686482191085815,
-                        -1.3827781677246094,
-                        -0.42136895656585693,
-                        -185.68020629882812,
-                        0.3700690269470215,
-                        1.873199701309204,
-                        -0.5044077038764954,
-                        -222.27200317382812
-                    ],
-                    "op": "BO_Add",
-                    "rotation": 1.019999623298645,
-                    "scale": [
-                        2.459998607635498,
-                        2.459998607635498,
-                        0.8000003099441528
-                    ],
-                    "height": 352.5276794433594,
-                    "position": [
-                        200.41183471679688,
-                        -185.15350341796875,
-                        -221.64157104492188
-                    ],
-                    "weightHard": false,
-                    "weightScale": [
-                        1,
-                        1,
-                        1
-                    ],
-                    "mirrored": false,
-                    "twinId": 44,
-                    "flooded": false,
-                    "pathable": true,
-                    "mergeable": true,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
-                },
-                {
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_02.json",
-                    "proj": "BP_Bend",
-                    "transform": [
-                        1.858489990234375,
-                        0.7941279411315918,
-                        0.45609357953071594,
-                        200.98194885253906,
-                        1.5686482191085815,
-                        -1.3827781677246094,
-                        -0.42136895656585693,
-                        -185.68020629882812,
-                        -0.3700690269470215,
-                        -1.873199701309204,
-                        0.5044077038764954,
-                        222.2720184326172
-                    ],
-                    "op": "BO_Add",
-                    "rotation": 1.019999623298645,
-                    "scale": [
-                        2.459998607635498,
-                        2.459998607635498,
-                        0.8000003099441528
-                    ],
-                    "height": 352.5276794433594,
-                    "position": [
-                        200.41183471679688,
-                        -185.15350341796875,
-                        -221.64157104492188
-                    ],
-                    "weightHard": false,
-                    "weightScale": [
-                        1,
-                        1,
-                        1
-                    ],
-                    "mirrored": true,
-                    "twinId": 44,
-                    "flooded": false,
-                    "pathable": true,
-                    "mergeable": true,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": true
                 },
                 {
                     "weight": [
@@ -7667,17 +6463,11 @@
                         1
                     ],
                     "mirrored": false,
-                    "twinId": 45,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": false,
                     "mergeable": false,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -7722,17 +6512,11 @@
                         1
                     ],
                     "mirrored": true,
-                    "twinId": 45,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": false,
                     "mergeable": false,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -7777,17 +6561,11 @@
                         1
                     ],
                     "mirrored": false,
-                    "twinId": 46,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": false,
                     "mergeable": false,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -7832,17 +6610,11 @@
                         1
                     ],
                     "mirrored": true,
-                    "twinId": 46,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": false,
                     "mergeable": false,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -7887,17 +6659,11 @@
                         1
                     ],
                     "mirrored": false,
-                    "twinId": 47,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": false,
                     "mergeable": false,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -7942,17 +6708,11 @@
                         1
                     ],
                     "mirrored": true,
-                    "twinId": 47,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": false,
                     "mergeable": false,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -7997,17 +6757,11 @@
                         1
                     ],
                     "mirrored": false,
-                    "twinId": 48,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": false,
                     "mergeable": false,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -8052,17 +6806,11 @@
                         1
                     ],
                     "mirrored": true,
-                    "twinId": 48,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": false,
                     "mergeable": false,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -8107,17 +6855,11 @@
                         1
                     ],
                     "mirrored": false,
-                    "twinId": 51,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": false,
                     "mergeable": false,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -8162,17 +6904,11 @@
                         1
                     ],
                     "mirrored": true,
-                    "twinId": 51,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": false,
                     "mergeable": false,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -8217,17 +6953,11 @@
                         1
                     ],
                     "mirrored": false,
-                    "twinId": 52,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": false,
                     "mergeable": false,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
-                        1
-                    ]
+                    "no_features": false
                 },
                 {
                     "weight": [
@@ -8272,17 +7002,256 @@
                         1
                     ],
                     "mirrored": true,
-                    "twinId": 52,
+                    "twinId": 0,
                     "flooded": false,
                     "pathable": false,
                     "mergeable": false,
-                    "no_features": false,
-                    "biomeColor": [
-                        0,
-                        0,
-                        0,
+                    "no_features": false
+                },
+                {
+                    "weight": [
+                        1,
+                        1,
+                        1,
                         1
-                    ]
+                    ],
+                    "spec": "/pa/terrain/metal/brushes/metal_t2_small_2_ramp.json",
+                    "proj": "BP_Bend",
+                    "transform": [
+                        -0.2577711045742035,
+                        -0.4939061999320984,
+                        -0.48704326152801514,
+                        -224.55322265625,
+                        -0.2366982251405716,
+                        0.551030158996582,
+                        -0.433520644903183,
+                        -199.87640380859375,
+                        0.6520187854766846,
+                        0.004774570465087891,
+                        -0.3499274253845215,
+                        -161.33543395996094
+                    ],
+                    "op": "BO_Add",
+                    "rotation": 0.7199998497962952,
+                    "scale": [
+                        0.7400002479553223,
+                        0.7400002479553223,
+                        0.7400002479553223
+                    ],
+                    "height": 341.1800537109375,
+                    "position": [
+                        -230.47671508789062,
+                        -205.14895629882812,
+                        -165.59124755859375
+                    ],
+                    "weightHard": false,
+                    "weightScale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "mirrored": false,
+                    "twinId": 0,
+                    "flooded": false,
+                    "pathable": true,
+                    "mergeable": false,
+                    "no_features": true
+                },
+                {
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "spec": "/pa/terrain/metal/brushes/metal_t2_small_2_ramp.json",
+                    "proj": "BP_Bend",
+                    "transform": [
+                        -0.2577711045742035,
+                        -0.4939061999320984,
+                        -0.48704326152801514,
+                        -224.55322265625,
+                        -0.2366982251405716,
+                        0.551030158996582,
+                        -0.433520644903183,
+                        -199.87640380859375,
+                        -0.6520187854766846,
+                        -0.004774570465087891,
+                        0.3499274253845215,
+                        161.33543395996094
+                    ],
+                    "op": "BO_Add",
+                    "rotation": 0.7199998497962952,
+                    "scale": [
+                        0.7400002479553223,
+                        0.7400002479553223,
+                        0.7400002479553223
+                    ],
+                    "height": 341.1800537109375,
+                    "position": [
+                        -230.47671508789062,
+                        -205.14895629882812,
+                        -165.59124755859375
+                    ],
+                    "weightHard": false,
+                    "weightScale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "mirrored": true,
+                    "twinId": 0,
+                    "flooded": false,
+                    "pathable": true,
+                    "mergeable": false,
+                    "no_features": true
+                },
+                {
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "spec": "/pa/terrain/metal/brushes/metal_t2_medium_wide_ramp.json",
+                    "proj": "BP_Bend",
+                    "transform": [
+                        0.0004038512706756592,
+                        -0.5402939319610596,
+                        -0.6034753918647766,
+                        -250.82363891601562,
+                        0.00012826919555664062,
+                        0.6034755706787109,
+                        -0.5402938723564148,
+                        -224.56336975097656,
+                        0.8100000023841858,
+                        0.00017380714416503906,
+                        0.00038643128937110305,
+                        0.16061317920684814
+                    ],
+                    "op": "BO_Add",
+                    "rotation": 0.7299998998641968,
+                    "scale": [
+                        0.8100001811981201,
+                        0.8100001811981201,
+                        0.8100001811981201
+                    ],
+                    "height": 336.66192626953125,
+                    "position": [
+                        -260.5090637207031,
+                        -233.23477172851562,
+                        0.16683197021484375
+                    ],
+                    "weightHard": false,
+                    "weightScale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "mirrored": false,
+                    "twinId": 0,
+                    "flooded": false,
+                    "pathable": true,
+                    "mergeable": false,
+                    "no_features": true
+                },
+                {
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "spec": "/pa/terrain/metal/brushes/metal_t2_small_2_ramp.json",
+                    "proj": "BP_Bend",
+                    "transform": [
+                        0.8081182837486267,
+                        0.311371386051178,
+                        0.4497673809528351,
+                        196.40452575683594,
+                        0.6653033494949341,
+                        -0.5858278274536133,
+                        -0.42766526341438293,
+                        -186.7529754638672,
+                        0.16708141565322876,
+                        0.8267123699188232,
+                        -0.47245320677757263,
+                        -206.3109893798828
+                    ],
+                    "op": "BO_Add",
+                    "rotation": 1.0099996328353882,
+                    "scale": [
+                        1.059999942779541,
+                        1.059999942779541,
+                        0.7800002098083496
+                    ],
+                    "height": 340.6106872558594,
+                    "position": [
+                        202.7474365234375,
+                        -192.7841796875,
+                        -212.9737548828125
+                    ],
+                    "weightHard": false,
+                    "weightScale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "mirrored": false,
+                    "twinId": 1,
+                    "flooded": false,
+                    "pathable": true,
+                    "mergeable": false,
+                    "no_features": true
+                },
+                {
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "spec": "/pa/terrain/metal/brushes/metal_t2_small_2_ramp.json",
+                    "proj": "BP_Bend",
+                    "transform": [
+                        0.8081182837486267,
+                        0.311371386051178,
+                        0.4497673809528351,
+                        196.40452575683594,
+                        0.6653033494949341,
+                        -0.5858278274536133,
+                        -0.42766526341438293,
+                        -186.7529754638672,
+                        -0.16708141565322876,
+                        -0.8267123699188232,
+                        0.47245320677757263,
+                        206.3109893798828
+                    ],
+                    "op": "BO_Add",
+                    "rotation": 1.0099996328353882,
+                    "scale": [
+                        1.059999942779541,
+                        1.059999942779541,
+                        0.7800002098083496
+                    ],
+                    "height": 340.6106872558594,
+                    "position": [
+                        202.7474365234375,
+                        -192.7841796875,
+                        -212.9737548828125
+                    ],
+                    "weightHard": false,
+                    "weightScale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "mirrored": true,
+                    "twinId": 1,
+                    "flooded": false,
+                    "pathable": true,
+                    "mergeable": false,
+                    "no_features": true
                 }
             ],
             "metal_spots": [
@@ -8637,6 +7606,5 @@
                 ]
             }
         }
-    ],
-    "system_index": 38
+    ]
 }
