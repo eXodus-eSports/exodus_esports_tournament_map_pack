@@ -1,5 +1,5 @@
 {
-    "name": "T- The island",
+    "name": "T- The Island",
     "creator": "Alpha2546",
     "version": "1.0",
     "date": "2015/09/01",
