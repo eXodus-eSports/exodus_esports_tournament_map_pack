@@ -1,5 +1,5 @@
 {
-    "name": "T- Elrose system",
+    "name": "T- Elrose System",
     "creator": "Alpha2546",
     "version": "2.0",
     "date": "2016/07/12",
