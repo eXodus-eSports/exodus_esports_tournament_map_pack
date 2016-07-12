@@ -1,5 +1,9 @@
 {
     "name": "Closair",
+	"creator": "superouman",
+    "version": "1.0",
+    "date": "2015/08/28",
+    "description": "This map emphasizes on the very close air distance between the bases but a relatively long and easily defended ground path. Longer ground paths give better attacking positions. The sea contains a large amount of metal. Lobs and long distance units can attack the enemy base directly.",
     "planets": [
         {
             "name": "Closair",

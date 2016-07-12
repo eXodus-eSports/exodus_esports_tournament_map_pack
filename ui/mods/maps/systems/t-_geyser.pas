@@ -3,7 +3,7 @@
     "creator": "Alpha2546",
     "version": "2",
     "date": "2015/09/01",
-    "description": "Medium sized planet with land. Preferred to play 1v1",
+    "description": "Medium sized planet with land. Preferred to play 1v1.",
     "planets": [
         {
             "name": "Geyser",

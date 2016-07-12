@@ -1,9 +1,9 @@
 {
     "name": "Coruscant",
     "creator": "Alpha2546",
-    "version": "1",
+    "version": "1.0",
     "date": "2015/05/17",
-    "description": "A small moon with some cheeky trenches and chokes. Preferred to play with 6 players SHARED ",
+    "description": "A small moon with some cheeky trenches and chokes. Preferred to play with 6 players SHARED.",
     "planets": [
         {
             "name": "Coruscant",

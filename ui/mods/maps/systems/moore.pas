@@ -1,7 +1,7 @@
 {
     "name": "Moore",
     "creator": "WPMarshall",
-    "version": "1",
+    "version": "1.0",
     "date": "2016/04/14",
     "description": "(1v1) This larger tropical planet will have you competing for air, naval and ground dominance in order to secure your expansions. Don't neglect the trees!",
     "players": [

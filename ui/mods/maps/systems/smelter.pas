@@ -1,9 +1,9 @@
 {
     "name": "Smelter",
     "creator": "WPMarshall",
-    "version": "1",
+    "version": "1.0",
     "date": "2016/04/14",
-    "description": "(1v1) Be ready for a fast paced game on this planet. WIth many angles to attack your opponent from, while also providing expansions to defend, this map should suit all skill levels.",
+    "description": "(1v1) Be ready for a fast paced game on this planet. With many angles to attack your opponent from, while also providing expansions to defend, this map should suit all skill levels.",
     "players": [
         2,
         4

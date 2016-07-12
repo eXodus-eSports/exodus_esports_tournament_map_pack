@@ -1,9 +1,9 @@
 {
-    "name": "Elrose system",
+    "name": "Elrose System",
 	"creator": "Alpha2546",
-	"version": "1",
-	"date": "2016/02/11",	
-	"description": "one big planet with spread out metal and a metal rich small moon. Preferred to play 5v5 SHARED.",	
+	"version": "1.0",
+	"date": "2016/02/11",
+	"description": "One big planet with spread out metal and a metal rich small moon. Preferred to play 5v5 SHARED.",
     "planets": [
         {
             "name": "MJ-91",

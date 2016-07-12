@@ -1,11 +1,11 @@
 {
-    "name": "living Forge",
+    "name": "Living Forge",
     "players": [
         2,
         2
     ],
     "creator": "(Metapod)",
-    "version": "1",
+    "version": "1.0",
     "date": "2016/04/27",
     "description": "Classic forge, now with tons of treeco and close quarters naval for a completely different take on 1v1.",
     "planets": [

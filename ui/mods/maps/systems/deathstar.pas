@@ -3,7 +3,7 @@
     "creator": "AndreasG",
     "version": "1.0",
     "date": "2016/01/30",
-    "description": "Inspired by the amazing series Star Wars the Clonewars I pressent you this amazing first of its kind 1v1 Metal map. Has to be experienced",
+    "description": "Inspired by the amazing series Star Wars the Clonewars, I present you this amazing first of its kind 1v1 metal map. Has to be experienced.",
     "planets": [
         {
             "name": "TheOneAndOnlyDethStar",

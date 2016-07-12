@@ -1,7 +1,7 @@
 {
     "name": "Incontrovertible",
     "creator": "Pwn4two",
-    "version": "1",
+    "version": "1.0",
     "date": "2015/11/17",
     "description": "A map designed for 2 shared teams of any number of players each.",
     "planets": [

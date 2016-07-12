@@ -1,9 +1,9 @@
 {
     "name": "THE T3MPLE V2",
-	"creator": "Alpha2546",
-	"version": "1",
-	"date": "2015/04/14",
-	"description": "Small sized planet with a temple on one side and a lake on the other. Preferred to play with 4 players SHARED or UNSHARED or FFA",
+    "creator": "Alpha2546",
+    "version": "1.0",
+    "date": "2015/04/14",
+    "description": "Small sized planet with a temple on one side and a lake on the other. Preferred to play with 4 players SHARED or UNSHARED or FFA.",
     "planets": [
         {
             "name": "THE T3MPLE",

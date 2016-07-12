@@ -1,8 +1,8 @@
 {
     "name": "Burnt Playground",
     "creator": "Elite_sardaukar",
-    "version": "2",
-    "date": "2016/04/17",	
+    "version": "2.0",
+    "date": "2016/04/17",
     "planets": [
         {
             "name": "Caladan",

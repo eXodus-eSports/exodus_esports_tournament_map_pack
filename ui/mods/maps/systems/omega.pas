@@ -1,9 +1,9 @@
 {
     "name": "Omega",
     "creator": "Alpha2546",
-    "version": "1",
+    "version": "1.0",
     "date": "2015/07/26",
-    "description": "A small sized icy planet. Can you have control over both water and land? Preferred to play with 4 players SHARED",
+    "description": "A small sized icy planet. Can you have control over both water and land? Preferred to play with 4 players SHARED.",
     "planets": [
         {
             "name": "Omega",

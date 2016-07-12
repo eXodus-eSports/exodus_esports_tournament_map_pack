@@ -1,9 +1,9 @@
 {
     "name": "The Forgery",
     "creator": "AndreasG",
-    "version": "1",
+    "version": "1.0",
     "date": "2015/10/04",
-    "description": "Map from Andreas G 1v1 mappack. Challanges teamplay as you have a small planet. Commander pushes, map controll and t2 timing is some of the elements that will decide the outcome",
+    "description": "Challenges team play as you have a small planet. Commander pushes, map control and t2 timing is some of the elements that will decide the outcome.",
     "planets": [
         {
             "name": "GStone",

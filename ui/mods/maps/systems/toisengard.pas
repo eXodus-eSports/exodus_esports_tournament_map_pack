@@ -1,9 +1,9 @@
 {
-    "name": "(NEW) ToIsengard",
-	"creator": "AndreasG",
-	"version": "1.0",
-	"date": "2016/05/11",
-	"description": "The crazy bastard chilld that turned out beautifull. A 1v1 map that can be played shared teams as well. Huge mountain ranges, height differences and treco are key words.",
+    "name": "ToIsengard",
+    "creator": "AndreasG",
+    "version": "1.0",
+    "date": "2016/05/11",
+    "description": "The crazy bastard child that turned out beautiful. A 1v1 map that can be played shared teams as well. Huge mountain ranges, height differences and treco are key words.",
     "planets": [
         {
             "name": "TheHobbits",

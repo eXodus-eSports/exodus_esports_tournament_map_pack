@@ -1,5 +1,9 @@
 {
     "name": "Sauron",
+    "creator": "superouman",
+    "version": "1.0",
+    "date": "2015/09/07",
+    "description": "A lot more metal than the usual. The idea is to allow players to build bigger armies and have more opportunities to go t2.",
     "planets": [
         {
             "name": "Sauron",
@@ -7478,6 +7482,5 @@
             }
         }
     ],
-    "creator": "superouman",
     "system_index": 2
 }

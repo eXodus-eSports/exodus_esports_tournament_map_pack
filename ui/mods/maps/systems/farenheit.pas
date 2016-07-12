@@ -1,7 +1,7 @@
 {
     "name": "Farenheit",
     "creator": "Pwn4two",
-    "version": "1",
+    "version": "1.0",
     "date": "2015/10/11",
     "description": "A 1v1 map that was inspired by the map, Forge.",
     "planets": [

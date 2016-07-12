@@ -1,7 +1,7 @@
 {
     "name": "Cauldron",
     "creator": "WPMarshall",
-    "version": "1",
+    "version": "1.0",
     "date": "2016/05/09",
     "description": "(1v1 - 2v2) Cauldron forces players to play on a larger planet with many different pathways between bases providing opportunity for raiding and expansion. Make use of the chokepoints!",
     "players": [

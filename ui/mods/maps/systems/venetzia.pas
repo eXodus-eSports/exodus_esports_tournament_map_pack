@@ -1,9 +1,9 @@
 {
     "name": "Venetzia",
-	"creator": "AndreasG",
-	"version": "1.0",
-	"date": "2016/03/31",
-	"description": "Have you ever dreamed about playing PA in the streets of Venezia? In that case you are waird. Anyways here you go. Map is filled with channals and bridges, naval not recommended.",
+    "creator": "AndreasG",
+    "version": "1.0",
+    "date": "2016/03/31",
+    "description": "Have you ever dreamed about playing PA in the streets of Venice? In that case you are weird. Anyways here you go. Map is filled with channels and bridges, naval not recommended.",
     "planets": [
         {
             "name": "Shmedwards",

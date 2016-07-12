@@ -1,9 +1,9 @@
 {
     "name": "Tandem",
     "creator": "WPMarshall",
-    "version": "1",
+    "version": "1.0",
     "date": "2016/04/28",
-    "description": "(1v1 - 2v2 - FFA) Tandem is a dynamic map with different challenges facing players in 1v1 games dependiong on where they spawn relative to their enemy. If playing with teams, you will need to co-operate effectively to lock down expansions and chokepoints. In FFA situations, watch out on all sides as ever!",
+    "description": "(1v1 - 2v2 - FFA) Tandem is a dynamic map with different challenges facing players in 1v1 games depending on where they spawn relative to their enemy. If playing with teams, you will need to co-operate effectively to lock down expansions and chokepoints. In FFA situations, watch out on all sides as ever!",
     "players": [
         2,
         4

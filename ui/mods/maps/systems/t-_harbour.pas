@@ -1,9 +1,9 @@
 {
     "name": "T- Harbour",
     "creator": "Alpha2546",
-    "version": "1",
+    "version": "1.0",
     "date": "2015/10/11",
-    "description": "Medium sized planet with land and naval. Will you invest in naval or rush to them on land? Preferred to play 2v2",
+    "description": "Medium sized planet with land and naval. Will you invest in naval or rush to them on land? Preferred to play 2v2.",
     "planets": [
         {
             "name": "Harbour",

@@ -1,9 +1,9 @@
 {
     "name": "TheWall",
-	"creator": "AndreasG",
-	"version": "1.0",
-	"date": "2016/03/31",
-	"description": "Play for glory on a visual and gamplay compelling map that will challange you in a different way.",
+    "creator": "AndreasG",
+    "version": "1.0",
+    "date": "2016/03/31",
+    "description": "Play for glory on a visual and gameplay compelling map that will challenge you in a different way.",
     "planets": [
         {
             "name": "Mithron",

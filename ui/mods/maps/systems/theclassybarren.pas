@@ -1,10 +1,9 @@
 {
     "name": "TheClassyBarren",
-	"creator": "AndreasG",
-	"version": "1.0",
-	"date": "2016/01/30",
-	"description": "This map takes you back to the roots of PA where the barren moon ruled the ancient universe. This is a dox haven with enough metal for most players  ",
-
+    "creator": "AndreasG",
+    "version": "1.0",
+    "date": "2016/01/30",
+    "description": "This map takes you back to the roots of PA where the barren moon ruled the ancient universe. This is a Dox haven with enough metal for most players. Large spawns make scouting your opponent vital.",
     "planets": [
         {
             "name": "Barren",

@@ -1,5 +1,9 @@
 {
     "name": "Semmo",
+    "creator": "superouman",
+    "version": "1.0",
+    "date": "2015/09/22",
+    "description": "This naval map has no metal in the water outside of the starting location. All the metal is concentrated on the islands.",
     "planets": [
         {
             "name": "Semmo",

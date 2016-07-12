@@ -1,9 +1,9 @@
 {
     "name": "Lazona",
     "creator": "Alpha2546",
-    "version": "1",
+    "version": "1.0",
     "date": "2015/04/14",
-    "description": "Medium sized planet with no naval inspired by the hydrogenix map. Preferred to play with 6 players SHARED",
+    "description": "Medium sized planet with no naval inspired by the Hydrogenix map. Preferred to play with 6 players SHARED.",
     "planets": [
         {
             "name": "Lazona",

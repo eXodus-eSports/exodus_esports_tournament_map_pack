@@ -1,5 +1,9 @@
 {
     "name": "Sinnet",
+    "creator": "superouman",
+    "version": "1.0",
+    "date": "2015/09/22",
+    "description": "This is a map I wanted to create for few years now but I didn't get the courage to make it since the default symmetry would give a sub-optimal result and thus I had to make the symmetry by hand. There are 4 starting locations enabled for 1v1 so you can get one match-up with plane symmetry (the opponent is in the same ‘pocket’ as you) or a match-up with rotational symmetry (the opponent is in the other ‘pocket’). Since this symmetry is done by hand, it is not 100% perfect but the potential asymmetries are negligible.",
     "planets": [
         {
             "name": "Sinnet",

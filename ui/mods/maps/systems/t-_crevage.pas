@@ -1,9 +1,9 @@
 {
     "name": "T- Crevage",
     "creator": "Alpha2546",
-    "version": "1",
+    "version": "1.0",
     "date": "2015/11/09",
-    "description": "medium sized earth planet with land only. Many ways to expand on this planet. Which expansions will you choose? Preferred to play 1v1 or 2v2 SHARED.",
+    "description": "Medium sized earth planet with land only. Many ways to expand on this planet. Which expansions will you choose? Preferred to play 1v1 or 2v2 SHARED.",
     "planets": [
         {
             "name": "Crevage",

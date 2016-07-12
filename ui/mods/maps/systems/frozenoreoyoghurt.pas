@@ -1,12 +1,9 @@
 {
-    
     "name": "FrozenOreoYoughurt",
-	"creator": "AndreasG",
-	"version": "1",
-	"date": "2015/10/18",
-	"description": "The biggest and coolest looking map this far. This one is a bit of a puzzle. Are you a good macro player? How will you solve it? When are you going to time your naval? FrozenOreoYoughurt can be your best friend but also pretty sour if you are expiring.",
-
-
+    "creator": "AndreasG",
+    "version": "1.0",
+    "date": "2015/10/18",
+    "description": "The biggest and coolest looking map this far. This one is a bit of a puzzle. Are you a good macro player? How will you solve it? When are you going to time your naval? FrozenOreoYoughurt can be your best friend but also pretty sour if you are expiring.",
     "planets": [
         {
             "name": "Hoth",

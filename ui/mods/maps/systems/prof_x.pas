@@ -1,9 +1,9 @@
 {
     "name": "Prof X",
     "creator": "Gandalf",
-    "version": "1",
+    "version": "1.0",
     "date": "2015/02/08",
-    "description": "2v2",
+    "description": "Designed for two players/shared armies only.",
     "planets": [
         {
             "name": "X Man V.1",

@@ -1,7 +1,7 @@
 {
     "name": "Boading",
     "creator": "WPMarshall",
-    "version": "1",
+    "version": "1.0",
     "date": "2016/04/14",
     "description": "(1v1 - 2v2) Also suitable for 1v1s and larger team games, Boading provides large and wealthy expansions between spawns. Be ready to be constantly replenishing your fabricators and expansions.",
     "players": [

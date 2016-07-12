@@ -1,10 +1,9 @@
 {
     "name": "Tundra",
-	"creator": "AndreasG",
-	"version": "1.0",
-	"date": "2016/01/30",
-	"description": "The frozen landscape ruled by tundra and frost, your units will be pushed to their absoulute max. The best strat will rulle the beaut.",
-
+    "creator": "AndreasG",
+    "version": "1.0",
+    "date": "2016/01/30",
+    "description": "The frozen landscape ruled by tundra and frost, your units will be pushed to their absolute max. The best strat will win out.",
     "planets": [
         {
             "name": "Frozen",

@@ -1,9 +1,9 @@
 {
-    "name": "Elijahs path SHARED",
+    "name": "Elijahs Path SHARED",
     "creator": "Alpha2546",
-    "version": "1",
+    "version": "1.0",
     "date": "2015/04/24",
-    "description": "Medium sized planet with remnants of an advanced ancient race. Map contains a lot of chokepoints and some naval. Preferred to play with 6 players SHARED",
+    "description": "Medium sized planet with remnants of an advanced ancient race. Map contains a lot of chokepoints and some naval. Preferred to play with 6 players SHARED.",
     "planets": [
         {
             "name": "Elijah",

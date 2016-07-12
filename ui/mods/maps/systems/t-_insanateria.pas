@@ -1,7 +1,7 @@
 {
     "name": "T- Insanateria",
     "creator": "Alpha2546",
-    "version": "1",
+    "version": "1.0",
     "date": "2016/02/11",
     "description": "Medium sized earth planet. Two ways to start your expansion. Which expansions will you choose? Preferred to play 1v1 or 2v2 SHARED.",
     "planets": [

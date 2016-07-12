@@ -1,5 +1,9 @@
 {
     "name": "Thermopylae",
+    "creator": "superouman",
+    "version": "1.0",
+    "date": "2016/09/22",
+    "description": "This map features a tight ring of pathable terrain sandwiched between a small sea with a reasonable amount of metal and a large area of mountains.",
     "planets": [
         {
             "name": "Thermopylae",

@@ -1,6 +1,7 @@
 {
     "name": "Berg",
     "creator": "Uber Entertainment",
+    "description": "A map once found on the ladder. Two opposing bases with crevasses in front and behind. Plenty of chokes between the two bases with a lot of expansion on the other side of the planet.",
     "players": [
         2,
         3

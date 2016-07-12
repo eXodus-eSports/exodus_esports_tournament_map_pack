@@ -1,9 +1,9 @@
 {
     "name": "Cratered",
     "creator": "WPMarshall",
-    "version": "1",
+    "version": "1.0",
     "date": "2016/04/28",
-    "description": "(1v1 - 2v2) Recommended for larger team games, this desolate planet introduces players to a unique terrain feature - deep craters. These can not be traversed except for air and units cannot be dropped into them. Players must work to control key expansion sites while advancing their bases toward their opponents! ",
+    "description": "(1v1 - 2v2) Recommended for larger team games, this desolate planet introduces players to a unique terrain feature - deep craters. These cannot be traversed except for air and units cannot be dropped into them. Players must work to control key expansion sites while advancing their bases toward their opponents!",
     "players": [
         2,
         10

@@ -1,9 +1,9 @@
 {
     "name": "T- Kure Atoll",
     "creator": "Alpha2546",
-    "version": "1",
+    "version": "1.0",
     "date": "2016/02/11",
-    "description": "lage sized tropical planet with some land and lots of naval. Many ways to expand. Preferred to play 2v2 SHARED.",
+    "description": "Large sized tropical planet with some land and lots of naval. Many ways to expand. Preferred to play 2v2 SHARED.",
     "planets": [
         {
             "name": "Kure Atoll",

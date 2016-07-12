@@ -1,9 +1,9 @@
 {
     "name": "Clutch of Annihilation",
     "creator": "Gandalf",
-    "version": "1",
+    "version": "1.0",
     "date": "2015/02/01",
-    "description": "Large map for shared armies, from 1v1-5v5, Setons Clutch PA Version in my style",
+    "description": "Large map for shared armies, from 1v1-5v5, Seton's Clutch PA version in my style.",
     "planets": [
         {
             "name": "Yolo",

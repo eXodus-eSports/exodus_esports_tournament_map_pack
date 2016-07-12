@@ -1,5 +1,9 @@
 {
     "name": "Lush",
+    "creator": "superouman",
+    "version": "1.0",
+    "date": "2015/08/27",
+    "description": "The ground paths are long but the ones through the water are short. Doxes and hover units will be powerful.",
     "planets": [
         {
             "name": "Lush",

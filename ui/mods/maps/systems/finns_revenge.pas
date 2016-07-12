@@ -1,9 +1,9 @@
 {
     "name": "Finn's Revenge",
     "creator": "WPMarshall",
-    "version": "1",
+    "version": "1.0",
     "date": "2016/05/30",
-    "description": "(1v1) This Supreme Commander classic needs no introduction. A frantic and intense 1v1 map designed to test a player's ability to stay in the fight to the bitter end, constantly trading expansions and the central choekpoints while adapating to the game as it progresses!",
+    "description": "(1v1) This Supreme Commander classic needs no introduction. A frantic and intense 1v1 map designed to test a player's ability to stay in the fight to the bitter end, constantly trading expansions and the central chokepoints while adapting to the game as it progresses!",
     "players": [
         2,
         4

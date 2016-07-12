@@ -1,9 +1,9 @@
 {
     "name": "Tectonic",
     "creator": "Alpha2546",
-    "version": "1",
+    "version": "1.0",
     "date": "2015/07/26",
-    "description": "A medium sized planet with a secret research facility in the mountains.. Preferred to play with 4 players SHARED",
+    "description": "A medium sized planet with a secret research facility in the mountains. Preferred to play with 4 players SHARED.",
     "planets": [
         {
             "name": "Tectonic",

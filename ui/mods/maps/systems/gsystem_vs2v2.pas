@@ -1,10 +1,10 @@
 {
-  "name": "GSystem",
-  "creator": "AndreasG",
-  "version": "1",
-  "date": "2015/10/14",
-  "description": "The map from AndreasG 1v1 Map pack with some additional metalspots to fit 2v2. Cooperation is a must",
-  "planets": [
+    "name": "GSystem",
+    "creator": "AndreasG",
+    "version": "1.0",
+    "date": "2015/10/14",
+    "description": "Play on a medium sized planet that is micro heavy. A map that separates the very best player from the slightly less skilled. The players spawn on the poles, so fighting over metal is a must. Some additional metal spots added to fit 2v2. Cooperation is a must.",
+    "planets": [
         {
             "name": "Gplan",
             "mass": 20000,

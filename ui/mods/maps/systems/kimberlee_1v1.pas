@@ -1,8 +1,9 @@
 {
     "name": "Kimberlee 1V1",
     "creator": "Kimberlee",
-    "description": "Nice looking FFA/ Team Armies map with an unusual small gas planet and many metal spots",
     "version": "1.2.1",
+    "date": "2015/06/20",
+    "description": "Nice looking FFA/team armies map with an unusual small gas planet and many metal spots.",
     "planets": [
         {
             "name": "GAS",

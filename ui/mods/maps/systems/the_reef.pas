@@ -3,7 +3,7 @@
     "creator": "Alpha2546",
     "version": "4",
     "date": "2015/04/14",
-    "description": "Medium sized planet with naval and land. Preferred to play with 4 players SHARED",
+    "description": "Medium sized planet with naval and land. Preferred to play with 4 players SHARED.",
     "planets": [
         {
             "name": "Reef",

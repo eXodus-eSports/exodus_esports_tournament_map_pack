@@ -3,7 +3,7 @@
     "creator": "N30N",
     "version": "1.0",
     "date": "2016/03/31",
-    "description": "First map by N30N in the pack. Fight in the arctics with snow and ice and all that. Map is naval with metalrich islands shattered around the map. Solid stuff",
+    "description": "First map by N30N in the pack. Fight in the arctics with snow and ice and all that. Map is naval with metal rich islands shattered around the map. Solid stuff.",
     "planets": [
         {
             "name": "Triton",

@@ -1,5 +1,7 @@
 {
     "name": "Roc",
+    "creator": "Uber Entertainment",
+    "description": "Your base is easy to defend from the front, but the back is exposed. Beware the large space for it is easy to be caught flatfooted and unawares. Will you win on Cross or call down an asteroid to smash your foe?",
     "players": [
         2,
         2

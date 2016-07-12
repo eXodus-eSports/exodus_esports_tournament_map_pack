@@ -1,8 +1,9 @@
 {
     "name": "Kinomo",
     "creator": "WPMarshall",
-    "version": "1",
+    "version": "1.0",
     "date": "2016/05/30",
+    "description": "This planet is quite large with many snaking paths to your enemy providing many chokepoints and a variety of gameplay opportunities for both LEGION and MLA factions. Team games will focus around expansion, raiding and locking down chokepoints with the odd backdoor sneak attack to boot!",
     "players": [
         2,
         6

@@ -1,5 +1,6 @@
 {
     "name": "Kinetics Multi v4",
+    "creator": "MangoMango",
     "planets": [
         {
             "name": "Bounce 4 vs 4",

@@ -1,7 +1,7 @@
 {
     "name": "Derisia",
     "creator": "WPMarshall",
-    "version": "1",
+    "version": "1.0",
     "date": "2016/04/14",
     "description": "(1v1) This unusual planet boasts equatorial spawns with 2 directions to attack with limited expansions which may be tricky to defend. Recommended strategies include constant raiding from many angles and rushing to capture high value expansions.",
     "players": [

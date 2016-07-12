@@ -1,5 +1,9 @@
 {
     "name": "Aquarius",
+    "creator": "superouman",
+    "version": "1.0",
+    "date": "2015/02/08",
+    "description": "I stumbled upon this seed with a nice ‘C’ shaped body of water. So I build a map around it with a nice focus on the water while keeping the rest of the map interesting. From this map, my starting location will tend to be very wide with a lot of metal.",
     "planets": [
         {
             "name": "Aquarius",

@@ -1,8 +1,8 @@
 {
     "name": "TWBaby",
     "creator": "AndreasG",
-    "version": "1",
-    "date": "2016/04/17",		
+    "version": "1.0",
+    "date": "2016/04/17",
     "planets": [
         {
             "name": "Stignitum",

@@ -3,7 +3,7 @@
     "creator": "silenceoftheclams",
     "version": "1.0",
     "date": "2015/02/09",
-    "description": "1v1 Desert",
+    "description": "Dorne is a 1v1 or 2v2 map that's all about the land wars, with hardly a puddle in sight! It has a number of paths connecting the two spawns, some of them on raised ground travelling over bridges between mesas, others winding through canyons (and under the bridges) and yet others going through wide open areas that favour Dox raiding. There are even a few water paths that allow Dox to take short cuts where the tanks can't follow!",
     "planets": [
         {
             "name": "Dorne",

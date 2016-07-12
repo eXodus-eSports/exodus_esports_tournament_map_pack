@@ -1,9 +1,9 @@
 {
     "name": "The Faceoff",
 	"creator": "AndreasG",
-	"version": "1",
+	"version": "1.0",
 	"date": "2015/10/04",
-	"description": "On this map you fight on a small moon planet face to face with your opponent. Locking down areas, good decisions and reclaim is vital",	
+	"description": "On this map you fight on a small moon planet face to face with your opponent. Locking down areas, good decisions and reclaim is vital.",
     "planets": [
         {
             "name": "Eye of the Samlmon",

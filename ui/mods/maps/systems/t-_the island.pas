@@ -1,9 +1,9 @@
 {
     "name": "T- The island",
     "creator": "Alpha2546",
-    "version": "1",
+    "version": "1.0",
     "date": "2015/09/01",
-    "description": "Medium sized planet with naval and land. Preferred to play 1v1",
+    "description": "Medium sized planet with naval and land. Preferred to play 1v1.",
     "planets": [
         {
             "name": "The island",

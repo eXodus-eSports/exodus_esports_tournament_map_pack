@@ -1,5 +1,9 @@
 {
     "name": "Ignus",
+	"creator": "ishytarus",
+    "version": "1.0",
+    "date": "2014/12/22",
+    "description": "Map has one spawn for each team. Has a mix of choke points and open areas. Each base area has three entrances, one of these is a small bridge.",
     "planets": [
         {
             "name": "Ignus",

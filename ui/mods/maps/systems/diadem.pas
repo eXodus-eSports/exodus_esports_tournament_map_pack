@@ -1,9 +1,9 @@
 {
     "name": "Diadem",
     "creator": "Superouman",
-    "version": "1",
+    "version": "1.0",
     "date": "2015/02/10",
-    "description": "1v1 tropical with 2 lanes",
+    "description": "The map features a single large valley at the equator with two large lakes at the poles. The plateaus on both sides of the valley can't be reached by ground and have quite a lot of metal. They also provide a great position for arc-firing units (Grenadiers, Pelters, Shellers, etc). You can try to force your way through the valley but your units can easily be picked up off by well placed Pelters.",
     "planets": [
         {
             "name": "Diadem",

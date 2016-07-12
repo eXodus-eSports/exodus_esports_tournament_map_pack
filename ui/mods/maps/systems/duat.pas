@@ -1,6 +1,7 @@
 {
     "name": "Duat",
     "creator": "Uber Entertainment",
+    "description": "A highly defensible base with a long route to the enemy base by ground. Look to the skies.",
     "players": [
         2,
         4

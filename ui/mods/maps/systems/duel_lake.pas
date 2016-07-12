@@ -1,9 +1,9 @@
 {
-    "name": "Duel lake",
+    "name": "Duel Lake",
     "creator": "River.",
     "version": "1.0",
     "date": "2016/05/11",
-    "description": "A map made for Big Brother Pro-Am tournament. If DeathStar and AmazonasSafari made a baby, this would be it. Perfect for 1v1, 2v2 (shared or unshared) or 4p ffa",
+    "description": "A map made for Big Brother Pro-Am tournament. If DeathStar and AmazonasSafari made a baby, this would be it. Perfect for 1v1, 2v2 (shared or unshared) or 4p FFA",
     "planets": [
         {
             "name": "Sparks",

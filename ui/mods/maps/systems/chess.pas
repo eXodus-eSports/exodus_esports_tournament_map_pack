@@ -1,5 +1,9 @@
 {
     "name": "Chess",
+    "creator": "superouman",
+    "version": "1.0",
+    "date": "2016/08/27",
+    "description": "I originally wanted to create a chess-like pattern but it didn't go as planned but it's still a nice map.",
     "planets": [
         {
             "name": "Chess",

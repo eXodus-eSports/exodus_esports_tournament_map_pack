@@ -1,9 +1,9 @@
 {
     "name": "Fields of Isis",
     "creator": "WPMarshall",
-    "version": "1",
+    "version": "1.0",
     "date": "2016/04/14",
-    "description": "Credit to Ballsonfire - This Supreme Commander classic makes its appearance in PA. Suitable for Team games, preferably shared!",
+    "description": "Credit to Ballsonfire - this Supreme Commander classic makes its appearance in PA. Suitable for team games, preferably shared!",
     "players": [
         2,
         10

@@ -1,7 +1,7 @@
 {
     "name": "Molten",
     "creator": "Pwn4two",
-    "version": "1",
+    "version": "1.0",
     "date": "2015/11/17",
     "description": "A map designed for 1v1 play or 2v2 shared.",
     "planets": [

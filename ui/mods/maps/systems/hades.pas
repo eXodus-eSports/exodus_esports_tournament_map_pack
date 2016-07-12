@@ -1,9 +1,9 @@
 {
     "name": "Hades",
-	"creator": "AndreasG",
-	"version": "1.1",
-	"date": "2015/12/08",
-	"description": "Fight over PA Hell in an intense 1v1 map.",
+    "creator": "AndreasG",
+    "version": "1.1",
+    "date": "2015/12/08",
+    "description": "Fight over PA hell in an intense 1v1 map.",
     "planets": [
         {
             "name": "UnderWorld",

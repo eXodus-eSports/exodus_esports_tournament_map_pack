@@ -1,8 +1,8 @@
 {
     "name": "Medea",
-    "creator": "Uber entertainment",
-    "version": "1",
-    "date": "2016/04/17",	
+    "creator": "Uber Entertainment",
+    "version": "1.0",
+    "date": "2016/04/17",
     "players": [
         6,
         10

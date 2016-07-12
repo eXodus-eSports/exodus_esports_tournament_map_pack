@@ -1,5 +1,9 @@
 {
     "name": "Fortress",
+	"creator": "superouman",
+    "version": "1.0",
+    "date": "2015/08/27",
+    "description": "Each players starts in his fortress which has a lot of place to build and a reasonable amount of entrances. The more you expand, the more entrances your base has.",
     "planets": [
         {
             "name": "Fortress",

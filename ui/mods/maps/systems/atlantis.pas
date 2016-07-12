@@ -3,7 +3,7 @@
     "creator": "AndreasG",
     "version": "1.1",
     "date": "2015/12/05",
-    "description": "A competitive 1v1 Naval only map, first i've made, and one of the only ones there are. Fight over a stunning plannet with Alien Setlements and structures",
+    "description": "A competitive 1v1 naval only map, first I've made, and one of the only ones there are. Fight over a stunning planet with alien settlements and structures.",
     "planets": [
         {
             "name": "SeaMonster",

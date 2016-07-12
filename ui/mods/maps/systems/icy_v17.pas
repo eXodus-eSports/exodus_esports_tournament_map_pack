@@ -1,9 +1,9 @@
 {
-    "name": "Soloroid system",
-	"creator": "Alpha2546",
-	"version": "1",
-	"date": "2016/02/11",	
-	"description": "Two similiar planets metal wise. Playstyle however is completely different. Preferred to play 2v2 SHARED.",
+    "name": "Soloroid System",
+    "creator": "Alpha2546",
+    "version": "1.0",
+    "date": "2016/02/11",
+    "description": "Two similar planets metal wise. Playstyle however is completely different. Preferred to play 2v2 SHARED.",
     "planets": [
         {
             "name": "Frosting",

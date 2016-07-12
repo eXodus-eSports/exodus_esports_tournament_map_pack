@@ -3,7 +3,7 @@
     "creator": "AndreasG",
     "version": "1.0",
     "date": "2016/02/15",
-    "description": "A amazing idea and a anazing seed. Fight over two ilands with a honey donut chaped lake inbetween. First map in the pack that is advised to play with a friend or more in your team. Stil possible to play 1v1. Will put you in a different situation that any other maps. One og the most difficult out there",
+    "description": "An amazing idea and an amazing seed. Fight over two islands with a honey donut shaped lake in between. First map in the pack that is advised to play with a friend or more in your team. Still possible to play 1v1. Will put you in a different situation that any other maps. One of the most difficult out there.",
     "planets": [
         {
             "name": "EatIt",
