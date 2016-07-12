@@ -1,28 +1,22 @@
 {
-  "context": "client",
-  "identifier": "com.exodusesports.tournamentmappack",
-  "display_name": "eXodus eSports Tournament MapPack",
-  "description": "All the maps you need for eXodus eSport events",
-  "author": "eXodus eSports",
-  "version": "1.0.1",
-  "build": "94684",
-  "date": "2016/06/03",
-  "signature": "not yet implemented",
-  "forum": "https://exodusesports.com/tournament/",
-  "icon": "http://i.imgur.com/gx0DSMK.png",
-  "category": [
-	  "map",
-	  "pack",
-	  "maps",
-	  "system",
-	  "planets",
-	  "planet",
-	  "systems"
+    "context": "client",
+    "identifier": "com.exodusesports.tournamentmappack",
+    "display_name": "eXodus eSports Map Pack",
+    "description": "A hand-picked selection of the best maps the community has to offer. This pack is used in all eXodus eSports tournaments.",
+    "author": "eXodus eSports",
+    "version": "1.0.2",
+    "build": "94684",
+    "date": "2016/07/12",
+    "signature": "not yet implemented",
+    "forum": "https://exodusesports.com/tournament/",
+    "icon": "http://i.imgur.com/gx0DSMK.png",
+    "category": [
+        "maps"
     ],
     "load_planet": [
         "coui://ui/mods/maps/maplist.js"
     ],
-	"priority": 100,
+    "priority": 100,
     "enabled": true,
     "dependencies": [
         "com.pa.conundrum.cShareSystems"
