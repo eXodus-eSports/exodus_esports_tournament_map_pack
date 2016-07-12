@@ -1,5 +1,5 @@
 {
-    "name": "the reef",
+    "name": "The Reef",
     "creator": "Alpha2546",
     "version": "4",
     "date": "2015/04/14",
