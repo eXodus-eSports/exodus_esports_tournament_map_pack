@@ -4,6 +4,7 @@ cShareSystems.load_pas("eXodus 1v1", [
 	"coui://ui/mods/maps/systems/arctic.pas",
 	"coui://ui/mods/maps/systems/atlantis.pas",
 	"coui://ui/mods/maps/systems/berg.pas",
+	"coui://ui/mods/maps/systems/blitz.pas",
 	"coui://ui/mods/maps/systems/boading.pas",
 	"coui://ui/mods/maps/systems/cauldron.pas",
 	"coui://ui/mods/maps/systems/chess.pas",
@@ -61,7 +62,6 @@ cShareSystems.load_pas("eXodus 1v1", [
 	"coui://ui/mods/maps/systems/the_forgery.pas",
 	"coui://ui/mods/maps/systems/the_reef.pas",
 	"coui://ui/mods/maps/systems/toisengard.pas",
-	"coui://ui/mods/maps/systems/trials.pas",
 	"coui://ui/mods/maps/systems/tundra.pas",
 	"coui://ui/mods/maps/systems/venetzia.pas",
 	"coui://ui/mods/maps/systems/zetox.pas"
