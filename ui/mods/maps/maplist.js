@@ -96,3 +96,14 @@ cShareSystems.load_pas("eXodus 3v3+", [
 	"coui://ui/mods/maps/systems/mots_recipe_for_disaster.pas",
 	"coui://ui/mods/maps/systems/twbaby.pas"
 ]);
+cShareSystems.load_pas("PA League Season 1", [
+	"coui://ui/mods/maps/systems/theclassybarren.pas",
+	"coui://ui/mods/maps/systems/amazonassafari.pas",
+	"coui://ui/mods/maps/systems/the_reef.pas",
+	"coui://ui/mods/maps/systems/overcookedpizza.pas",
+	"coui://ui/mods/maps/systems/closair.pas",
+	"coui://ui/mods/maps/systems/frozenoreoyoghurt.pas",
+	"coui://ui/mods/maps/systems/arctic.pas",
+	"coui://ui/mods/maps/systems/hades.pas",
+	"coui://ui/mods/maps/systems/ignus.pas"
+]);
