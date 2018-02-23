@@ -77,10 +77,10 @@ cShareSystems.load_pas("eXodus 2v2", [
 	"coui://ui/mods/maps/systems/icy_v17.pas",
 	"coui://ui/mods/maps/systems/incontrovertible.pas",
 	"coui://ui/mods/maps/systems/kinetics_multi_4v.pas",
-	"coui://ui/mods/maps/systems/kure_atoll_v20.pas",
 	"coui://ui/mods/maps/systems/lockery.pas",
 	"coui://ui/mods/maps/systems/mots_recipe_for_disaster_original.pas",
 	"coui://ui/mods/maps/systems/t-_elrose system v3.pas",
+	"coui://ui/mods/maps/systems/t-_kure atoll.pas",
 	"coui://ui/mods/maps/systems/tandem.pas",
 	"coui://ui/mods/maps/systems/the_forgery.pas",
 	"coui://ui/mods/maps/systems/the_t3mple_v2.pas",
@@ -91,10 +91,15 @@ cShareSystems.load_pas("eXodus 2v2", [
 cShareSystems.load_pas("eXodus 3v3+", [
 	"coui://ui/mods/maps/systems/bang_battle.pas",
 	"coui://ui/mods/maps/systems/burnt_playground.pas",
+	"coui://ui/mods/maps/systems/frontlines_sa.pas",
 	"coui://ui/mods/maps/systems/marshalls_lament_titans.pas",
 	"coui://ui/mods/maps/systems/medea.pas",
 	"coui://ui/mods/maps/systems/mots_recipe_for_disaster.pas",
-	"coui://ui/mods/maps/systems/twbaby.pas"
+	"coui://ui/mods/maps/systems/omega_belt.pas",
+	"coui://ui/mods/maps/systems/t-_rain_system.pas",
+	"coui://ui/mods/maps/systems/twbaby.pas",
+	"coui://ui/mods/maps/systems/war_of the worlds.pas",
+	"coui://ui/mods/maps/systems/worlds_collide.pas"
 ]);
 cShareSystems.load_pas("PA League Season 1", [
 	"coui://ui/mods/maps/systems/theclassybarren.pas",
