@@ -40,7 +40,9 @@ cShareSystems.load_pas("eXodus 1v1", [
 	"coui://ui/mods/maps/systems/moore.pas",
 	"coui://ui/mods/maps/systems/oblivarum.pas",
 	"coui://ui/mods/maps/systems/omega.pas",
+	"coui://ui/mods/maps/systems/outlier.pas",
 	"coui://ui/mods/maps/systems/overcookedpizza.pas",
+	"coui://ui/mods/maps/systems/pressure_cooker.pas",
 	"coui://ui/mods/maps/systems/prof_x.pas",
 	"coui://ui/mods/maps/systems/roc.pas",
 	"coui://ui/mods/maps/systems/sauron.pas",
@@ -58,6 +60,7 @@ cShareSystems.load_pas("eXodus 1v1", [
 	"coui://ui/mods/maps/systems/theclassybarren.pas",
 	"coui://ui/mods/maps/systems/thermopylae.pas",
 	"coui://ui/mods/maps/systems/thewall.pas",
+	"coui://ui/mods/maps/systems/thief's_pass.pas",
 	"coui://ui/mods/maps/systems/the_faceoff.pas",
 	"coui://ui/mods/maps/systems/the_forgery.pas",
 	"coui://ui/mods/maps/systems/the_reef.pas",
@@ -88,7 +91,7 @@ cShareSystems.load_pas("eXodus 2v2", [
 	"coui://ui/mods/maps/systems/tropicanhoneydonut.pas",
 	"coui://ui/mods/maps/systems/zetox.pas"
 ]);
-cShareSystems.load_pas("eXodus 3v3+", [
+cShareSystems.load_pas("eXodus 3v3+ & FFA", [
 	"coui://ui/mods/maps/systems/bang_battle.pas",
 	"coui://ui/mods/maps/systems/burnt_playground.pas",
 	"coui://ui/mods/maps/systems/frontlines_sa.pas",
@@ -99,7 +102,10 @@ cShareSystems.load_pas("eXodus 3v3+", [
 	"coui://ui/mods/maps/systems/t-_rain_system.pas",
 	"coui://ui/mods/maps/systems/twbaby.pas",
 	"coui://ui/mods/maps/systems/war_of the worlds.pas",
-	"coui://ui/mods/maps/systems/worlds_collide.pas"
+	"coui://ui/mods/maps/systems/worlds_collide.pas",
+	"coui://ui/mods/maps/systems/newzealandsbaby.pas",
+	"coui://ui/mods/maps/systems/pockets.pas",
+	"coui://ui/mods/maps/systems/the_somme.pas"
 ]);
 cShareSystems.load_pas("PA League Season 1", [
 	"coui://ui/mods/maps/systems/theclassybarren.pas",
