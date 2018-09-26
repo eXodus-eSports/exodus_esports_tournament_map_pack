@@ -1,10 +1,10 @@
 {
     "context": "client",
-    "identifier": "com.exodusesports.tournamentmappack",
-    "display_name": "eXodus eSports Map Pack",
+    "identifier": "com.exodusesports.tournamentmappack-dev",
+    "display_name": "eXodus eSports Map Pack DEV",
     "description": "A hand-picked selection of the best maps the community has to offer. This pack is used in all eXodus eSports tournaments.",
     "author": "eXodus eSports",
-    "version": "1.3.3",
+    "version": "dev",
     "build": "108271",
     "date": "2018/02/24",
     "signature": "not yet implemented",
