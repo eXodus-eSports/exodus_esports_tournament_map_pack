@@ -91,7 +91,7 @@ cShareSystems.load_pas("eXodus 2v2", [
 	"coui://ui/mods/maps/systems/tropicanhoneydonut.pas",
 	"coui://ui/mods/maps/systems/zetox.pas"
 ]);
-cShareSystems.load_pas("eXodus 3v3+ & FFA", [
+cShareSystems.load_pas("eXodus 3v3+", [
 	"coui://ui/mods/maps/systems/bang_battle.pas",
 	"coui://ui/mods/maps/systems/burnt_playground.pas",
 	"coui://ui/mods/maps/systems/frontlines_sa.pas",
@@ -102,7 +102,9 @@ cShareSystems.load_pas("eXodus 3v3+ & FFA", [
 	"coui://ui/mods/maps/systems/t-_rain_system.pas",
 	"coui://ui/mods/maps/systems/twbaby.pas",
 	"coui://ui/mods/maps/systems/war_of the worlds.pas",
-	"coui://ui/mods/maps/systems/worlds_collide.pas",
+	"coui://ui/mods/maps/systems/worlds_collide.pas"
+]);
+cShareSystems.load_pas("eXodus FFA", [
 	"coui://ui/mods/maps/systems/newzealandsbaby.pas",
 	"coui://ui/mods/maps/systems/pockets.pas",
 	"coui://ui/mods/maps/systems/the_somme.pas"
