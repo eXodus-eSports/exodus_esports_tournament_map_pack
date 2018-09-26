@@ -17,7 +17,6 @@
     "coui://ui/mods/maps/maplist.js"
   ],
   "priority": 100,
-  "enabled": true,
   "dependencies": [
     "com.pa.conundrum.cShareSystems"
   ]
