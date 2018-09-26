@@ -11,7 +11,8 @@
   "forum": "https://forums.planetaryannihilation.com/threads/exodus-esports-map-pack.71887/",
   "icon": "http://i.imgur.com/gx0DSMK.png",
   "category": [
-    "maps"
+    "maps",
+    "tournaments"
   ],
   "load_planet": [
     "coui://ui/mods/maps/maplist.js"
