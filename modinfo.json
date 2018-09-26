@@ -1,24 +1,24 @@
 {
-    "context": "client",
-    "identifier": "com.exodusesports.tournamentmappack-dev",
-    "display_name": "eXodus eSports Map Pack DEV",
-    "description": "A hand-picked selection of the best maps the community has to offer. This pack is used in all eXodus eSports tournaments.",
-    "author": "eXodus eSports",
-    "version": "dev",
-    "build": "108271",
-    "date": "2018/02/24",
-    "signature": "not yet implemented",
-    "forum": "https://forums.planetaryannihilation.com/threads/exodus-esports-map-pack.71887/",
-    "icon": "http://i.imgur.com/gx0DSMK.png",
-    "category": [
-        "maps"
-    ],
-    "load_planet": [
-        "coui://ui/mods/maps/maplist.js"
-    ],
-    "priority": 100,
-    "enabled": true,
-    "dependencies": [
-        "com.pa.conundrum.cShareSystems"
-    ]
+  "context": "client",
+  "identifier": "com.exodusesports.tournamentmappack-dev",
+  "display_name": "eXodus eSports Map Pack DEV",
+  "description": "A hand-picked selection of the best maps the community has to offer.",
+  "author": "eXodus eSports",
+  "version": "dev",
+  "build": "108271",
+  "date": "2018/02/24",
+  "signature": " ",
+  "forum": "https://forums.planetaryannihilation.com/threads/exodus-esports-map-pack.71887/",
+  "icon": "http://i.imgur.com/gx0DSMK.png",
+  "category": [
+    "maps"
+  ],
+  "load_planet": [
+    "coui://ui/mods/maps/maplist.js"
+  ],
+  "priority": 100,
+  "enabled": true,
+  "dependencies": [
+    "com.pa.conundrum.cShareSystems"
+  ]
 }
