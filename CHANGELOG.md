@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## 1.4.0
+##
 
  - Removed PA League Season 1 tab
  - Moved FFA maps to their own tab
