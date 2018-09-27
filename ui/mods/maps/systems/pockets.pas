@@ -4,6 +4,7 @@
 	"version": "1.0",
     "date": "2018/03/17",
     "players": [
+        6,
         6
     ],
     "planets": [
