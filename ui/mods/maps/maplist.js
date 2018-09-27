@@ -81,7 +81,7 @@ cShareSystems.load_pas("eXodus 2v2", [
 	"coui://ui/mods/maps/systems/kinetics_multi_4v.pas",
 	"coui://ui/mods/maps/systems/lockery.pas",
 	"coui://ui/mods/maps/systems/mots_recipe_for_disaster_original.pas",
-	"coui://ui/mods/maps/systems/t-_elrose system v3.pas",
+	"coui://ui/mods/maps/systems/elrose_v18.pas",
 	"coui://ui/mods/maps/systems/t-_kure atoll.pas",
 	"coui://ui/mods/maps/systems/tandem.pas",
 	"coui://ui/mods/maps/systems/the_forgery.pas",
