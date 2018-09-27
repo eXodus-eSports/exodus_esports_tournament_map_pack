@@ -8,6 +8,8 @@
   - Updated 1v1 maps
     - Cauldron v1.1
     - Cratered v1.1
+  - Removed 2v2 maps
+    - Elrose System v1.0
 
 ## 1.3.3 - 2018-02-24
 

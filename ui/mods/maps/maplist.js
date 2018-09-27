@@ -73,7 +73,6 @@ cShareSystems.load_pas("eXodus 2v2", [
 	"coui://ui/mods/maps/systems/atlantis.pas",
 	"coui://ui/mods/maps/systems/deathstar.pas",
 	"coui://ui/mods/maps/systems/duel_lake.pas",
-	"coui://ui/mods/maps/systems/elrose_v18.pas",
 	"coui://ui/mods/maps/systems/fields_of_isis.pas",
 	"coui://ui/mods/maps/systems/frozenoreoyoghurt.pas",
 	"coui://ui/mods/maps/systems/gsystem_vs2v2.pas",
