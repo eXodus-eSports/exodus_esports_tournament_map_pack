@@ -1,8 +1,11 @@
 {
-    "name": "6p FFA - Pockets",
+    "name": "Pockets",
 	"creator": "TETC",
 	"version": "1.0",
     "date": "2018/03/17",
+    "players": [
+        6
+    ],
     "planets": [
         {
             "name": "Malwa",
