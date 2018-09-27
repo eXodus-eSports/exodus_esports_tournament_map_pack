@@ -6,6 +6,7 @@
   - Moved FFA maps to their own tabs
   - Fix for Elijahs Path SHARED missing a metal spot near one of the spawns thanks to Grand Homie
   - Clarified that Mots Recipe For Disaster in 2v2 and 3v3 are different
+  - Removed FFA from map names due to new tab system
   - Updated 1v1 maps
     - Cauldron v1.1
     - Cratered v1.1
