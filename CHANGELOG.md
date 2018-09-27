@@ -21,6 +21,8 @@
     - Elrose System v1.0
   - New 3v3 map
     - Seton's Grip v1.0
+  - Removed 3v3 map
+    - World's Collide v1.0
 
 ## 1.3.3 - 2018-02-24
 
