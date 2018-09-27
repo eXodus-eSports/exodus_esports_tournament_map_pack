@@ -19,6 +19,7 @@ cShareSystems.load_pas("eXodus 1v1", [
 	"coui://ui/mods/maps/systems/diadem.pas",
 	"coui://ui/mods/maps/systems/dorne_system.pas",
 	"coui://ui/mods/maps/systems/duat.pas",
+	"coui://ui/mods/maps/systems/desert.pas",
 	"coui://ui/mods/maps/systems/elijahs_path shared.pas",
 	"coui://ui/mods/maps/systems/farenheit.pas",
 	"coui://ui/mods/maps/systems/finns_revenge.pas",

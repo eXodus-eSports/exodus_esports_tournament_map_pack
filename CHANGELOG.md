@@ -8,6 +8,7 @@
   - Clarified that Mots Recipe For Disaster in 2v2 and 3v3 are different
   - Removed FFA from map names due to new tab system
   - New 1v1 maps
+    - Dust
     - Solitude
   - Updated 1v1 maps
     - Cauldron v1.1
