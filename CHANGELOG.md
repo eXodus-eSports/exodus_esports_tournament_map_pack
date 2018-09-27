@@ -8,6 +8,8 @@
   - Clarified that Mots Recipe For Disaster in 2v2 and 3v3 are different
   - Removed FFA from map names due to new tab system
   - Fixed map sorting
+  - Removed versions from map names
+  - Fixed duplicate key error in Kinetics Multi
   - New 1v1 maps
     - Dust 1.0
     - Solitude 1.0
