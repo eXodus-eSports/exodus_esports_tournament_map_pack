@@ -15,8 +15,12 @@
     - Cratered v1.1
     - Kinomo v1.1
     - The Forgery v1.1
+  - New 2v2 map
+    - Seton's Grip v1.0
   - Removed 2v2 maps
     - Elrose System v1.0
+  - New 3v3 map
+    - Seton's Grip v1.0
 
 ## 1.3.3 - 2018-02-24
 
