@@ -1,5 +1,5 @@
 {
-    "name": "6p FFA - The Somme",
+    "name": "The Somme",
     "description": "North vs south lane map with 2 corridors per lane to get to the enemy's base; each corridor is next to one of your ally's so cooperation is key.  (Modified version of the map 'The Somme 2v2' with narrower lanes.)",
     "version": "1.0",
     "creator": "Grand Homie",
