@@ -2,8 +2,8 @@
 
 ##
 
- - Removed PA League Season 1 tab
- - Moved FFA maps to their own tab
+  - Removed PA League Season 1 tab
+  - Moved FFA maps to their own tabs
 
 ## 1.3.3 - 2018-02-24
 
