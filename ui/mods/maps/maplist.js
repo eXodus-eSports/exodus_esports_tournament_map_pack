@@ -79,7 +79,7 @@ cShareSystems.load_pas("eXodus 2v2", [
 	"coui://ui/mods/maps/systems/frozenoreoyoghurt.pas",
 	"coui://ui/mods/maps/systems/gsystem_vs2v2.pas",
 	"coui://ui/mods/maps/systems/incontrovertible.pas",
-	"coui://ui/mods/maps/systems/kinetics_multi_4v.pas",
+	"coui://ui/mods/maps/systems/kinetics_multi_v4.pas",
 	"coui://ui/mods/maps/systems/lockery.pas",
 	"coui://ui/mods/maps/systems/seton's_grip.pas",
 	"coui://ui/mods/maps/systems/icy_v17.pas",

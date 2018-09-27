@@ -9,6 +9,7 @@
   - Removed FFA from map names due to new tab system
   - Fixed map sorting
   - Fixed duplicate key error in Kinetics Multi
+  - Fixed Kinetics Multi v4 missing from 2v2 map list
   - New 1v1 maps
     - Dust 1.0
     - Solitude 1.0
