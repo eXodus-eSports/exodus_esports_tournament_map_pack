@@ -8,6 +8,7 @@
   - Updated 1v1 maps
     - Cauldron v1.1
     - Cratered v1.1
+    - Kinomo v1.1
   - Removed 2v2 maps
     - Elrose System v1.0
 

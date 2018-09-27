@@ -1,9 +1,9 @@
 {
     "name": "Kinomo",
     "creator": "WPMarshall",
-    "version": "1.0",
-    "date": "2016/05/30",
-    "description": "This planet is quite large with many snaking paths to your enemy providing many chokepoints and a variety of gameplay opportunities for both LEGION and MLA factions. Team games will focus around expansion, raiding and locking down chokepoints with the odd backdoor sneak attack to boot!",
+    "version": "1.1",
+    "date": "2016/07/02",
+    "description": "(1v1 - 2v2 - 3v3) Kinomo contains many twists and turns between you and your enemy. Expand fast, raid early and lock down chokepoints!",
     "players": [
         2,
         6
@@ -14582,6 +14582,5 @@
                 ]
             }
         }
-    ],
-    "system_index": 6
+    ]
 }
