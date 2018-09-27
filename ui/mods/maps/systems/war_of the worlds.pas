@@ -1,7 +1,7 @@
 {
     "name": "War of the Worlds",
     "creator": "Pwn4two",
-    "version": "1",
+    "version": "1.0",
     "date": "2015/10/11",
     "description": "A map for clan fights and shared team battles.",
     "planets": [

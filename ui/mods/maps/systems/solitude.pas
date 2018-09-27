@@ -1,7 +1,7 @@
 {
     "name": "Solitude",
     "creator": "WPMarshall",
-    "version": "1",
+    "version": "1.0",
     "date": "2016/07/17",
     "description": "(1v1) Solitude gives players a choice. With differing eastern and western approaches and side routes into the bases via the poles, a player must choose and adapt their strategy wisely.",
     "players": [

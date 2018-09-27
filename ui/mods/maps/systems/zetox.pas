@@ -1,7 +1,7 @@
 {
     "name": "Zetox",
     "creator": "Alpha2546",
-    "version": "2",
+    "version": "2.0",
     "date": "2015/11/07",
     "description": "5v5 SHARED land, naval and air map. Preferred to play with 10 players SHARED",
     "planets": [

@@ -1,7 +1,7 @@
 {
     "name": "Marshall's Lament (Titans)",
     "creator": "WPMarshall",
-    "version": "3",
+    "version": "3.0",
     "date": "2016/04/14",
     "description": "Suitable for shared and unshared team games, this version of Marshall's Lament re-designs the planets to provide clear spawns and different terrain. The central point is as important as ever, but there is now an added element of claiming empty spawn locations early in the game! ",
     "players": [

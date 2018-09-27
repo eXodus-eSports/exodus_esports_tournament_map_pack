@@ -1,7 +1,7 @@
 {
     "name": "Omega Belt",
     "creator": "Elite Sardaukar",
-    "version": "1",
+    "version": "1.0",
     "date": "2017/12/03",
     "description": "Multiplanet system - 5 Starting Planets",
     "planets": [

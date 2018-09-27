@@ -1,7 +1,7 @@
 {
     "name": "T- Geyser",
     "creator": "Alpha2546",
-    "version": "2",
+    "version": "2.0",
     "date": "2015/09/01",
     "description": "Medium sized planet with land. Preferred to play 1v1.",
     "planets": [

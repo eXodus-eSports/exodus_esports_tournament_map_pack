@@ -1,7 +1,7 @@
 {
     "name": "Frontlines SA",
     "creator": "Omnicock",
-    "version": "1",
+    "version": "1.0",
     "date": "2018/01/21",
     "description": "5v5 Shared - Metal planet with lanes and a moon",
     "planets": [

@@ -1,7 +1,7 @@
 {
     "name": "Thief's Pass",
     "creator": "WPMarshall",
-    "version": "1",
+    "version": "1.0",
     "date": "2017/01/14",
     "description": "For 2 teams and 1v1s - Start on opposite sides of a large ridge in the middle of the map with chokepoints to contest. Forward bases will help hold expansions.",
     "players": [

@@ -1,7 +1,7 @@
 {
     "name": "T- Rain system",
     "creator": "Alpha2546",
-    "version": "1",
+    "version": "1.0",
     "date": "2017/02/10",
     "description": "A big sized system with smashable planets. Preferred to play with 10 players SHARED",
     "planets": [

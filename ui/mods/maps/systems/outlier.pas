@@ -1,7 +1,7 @@
 {
     "name": "Outlier",
     "creator": "WPMarshall",
-    "version": "1",
+    "version": "1.0",
     "date": "2016/07/17",
     "description": "(2v2) Outlier is a distant asteroid rich in metal. Players must be prepared for rapid expansion and climbing the tech ladder. Don't forget to scout and raid!",
     "players": [

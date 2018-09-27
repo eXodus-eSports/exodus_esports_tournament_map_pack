@@ -1,7 +1,7 @@
 {
     "name": "The Reef",
     "creator": "Alpha2546",
-    "version": "4",
+    "version": "4.0",
     "date": "2015/04/14",
     "description": "Medium sized planet with naval and land. Preferred to play with 4 players SHARED.",
     "planets": [
