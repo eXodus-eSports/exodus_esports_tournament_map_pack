@@ -1,5 +1,5 @@
 {
-    "name": "6p FFA - NewZealandsBaby",
+    "name": "NewZealandsBaby",
     "creator": "AndreasG",
     "version": "1.0",
     "date": "2016/03/27",
