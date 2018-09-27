@@ -4,6 +4,7 @@
 
   - Removed PA League Season 1 tab
   - Moved FFA maps to their own tabs
+  - Fix for Elijahs Path SHARED missing a metal spot near one of the spawns thanks to Grand Homie
 
 ## 1.3.3 - 2018-02-24
 
