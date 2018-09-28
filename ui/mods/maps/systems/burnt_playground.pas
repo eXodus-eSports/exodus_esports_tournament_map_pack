@@ -1,6 +1,6 @@
 {
     "name": "Burnt Playground",
-    "creator": "Elite_sardaukar",
+    "creator": "Elite Sardaukar",
     "version": "2.0",
     "date": "2016/04/17",
     "planets": [
