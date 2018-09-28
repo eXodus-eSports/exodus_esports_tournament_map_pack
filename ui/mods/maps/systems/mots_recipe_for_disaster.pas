@@ -1,5 +1,5 @@
 {
-    "name": "Mots Recipe For Disaster",
+    "name": "Mot's Recipe For Disaster",
     "creator": "Mot9001",
     "version": "1.1",
     "date": "2016/04/17",
