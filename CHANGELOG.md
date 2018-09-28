@@ -10,7 +10,7 @@
   - Fixed map sorting
   - Fixed duplicate key error in Kinetics Multi v4
   - Fixed Kinetics Multi v4 missing from 2v2 map list
-  - New maps
+  - **New maps**
     - 1v1
       - Dust 1.0
       - Solitude 1.0
@@ -20,13 +20,13 @@
       - Seton's Grip v1.0
     - FFA
       - Wadiya - No Crater v1.2
-  - Updated maps
+  - **Updated maps**
     - 1v1
       - Cauldron v1.1
       - Cratered v1.1
       - Kinomo v1.1
       - The Forgery v1.1
-  - Removed maps
+  - **Removed maps**
     - 2v2
       - Elrose System v1.0
     - 3v3+
@@ -34,7 +34,7 @@
 
 ## 1.3.3 - 2018-02-24
 
-  - New maps
+  - **New maps**
     - 1v1
       - Outlier v1.0
       - Pressure Cooker v1.1
@@ -47,14 +47,14 @@
 ## 1.3.2 - 2018-02-23
 
   - Removed Kure Atoll
-  - New maps
+  - **New maps**
     - 3v3
       - Frontlines SA v1.0
       - Omega Belt v1.0
       - T- Rain System v1.0
       - War of the Worlds v1.0
       - Worlds Collide v1.0
-  - Reclassified maps
+  - **Reclassified maps**
     - 2v2
       - T- Kure Atoll v1.0
 
