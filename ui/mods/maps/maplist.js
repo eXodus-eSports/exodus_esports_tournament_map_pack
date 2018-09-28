@@ -50,7 +50,7 @@ cShareSystems.load_pas("eXodus 1v1", [
 	"coui://ui/mods/maps/systems/semmo.pas",
 	"coui://ui/mods/maps/systems/sinnet.pas",
 	"coui://ui/mods/maps/systems/smelter.pas",
-	"coui://ui/mods/maps/systems/soliture.pas",
+	"coui://ui/mods/maps/systems/solitude.pas",
 	"coui://ui/mods/maps/systems/t-_crevage.pas",
 	"coui://ui/mods/maps/systems/t-_geyser.pas",
 	"coui://ui/mods/maps/systems/t-_harbour.pas",
