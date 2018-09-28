@@ -1,5 +1,5 @@
 {
-    "name": "Elijahs Path SHARED",
+    "name": "Elijah's Path SHARED",
     "creator": "Alpha2546",
     "version": "1.1",
     "date": "2015/04/24",
