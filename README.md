@@ -47,7 +47,7 @@ Please help [translate the eXodus eSports Map Pack](https://poeditor.com/join/pr
 | FrozenOreoYoughurt                   | 1.0   | AndreasG           | 2     |      |
 | GSystem                              | 1.0   | AndreasG           | 2     |      |
 | Hades                                | 1.1   | AndreasG           | 2     |      |
-| Ignus                                | 1.1   | i♥♥♥♥arus          | 2     |      |
+| Ignus                                | 1.1   | ishytarus          | 2     |      |
 | Incontrovertible                     | 1.0   | Pwn4two            | 2     |      |
 | Kimberlee 1V1                        | 1.2.1 | Kimberlee          | 2     |      |
 | Kinomo                               | 1.1   | WPMarshall         | 2     | 2-6  |
