@@ -1,5 +1,5 @@
 {
-    "name": "T- Rain system",
+    "name": "T- Rain System",
     "creator": "Alpha2546",
     "version": "1.0",
     "date": "2017/02/10",
