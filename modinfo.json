@@ -1,10 +1,10 @@
 {
   "context": "client",
-  "identifier": "com.exodusesports.tournamentmappack-dev",
-  "display_name": "eXodus eSports Map Pack DEV",
+  "identifier": "com.exodusesports.tournamentmappack",
+  "display_name": "eXodus eSports Map Pack",
   "description": "A hand-picked selection of the best maps the community has to offer. Maps are divided between 1v1, 2v2, 3v3+ and FFA. The number of custom landing zones a system has is the maximum number of supported armies. Multiple players on a shared army count as one army. Some maps have recommended player counts as well.",
   "author": "AndreasG, Quitch",
-  "version": "dev",
+  "version": "1.4.1",
   "build": "110069",
   "date": "2018/09/28",
   "signature": " ",
