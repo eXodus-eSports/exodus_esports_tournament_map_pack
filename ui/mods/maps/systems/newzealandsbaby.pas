@@ -5,6 +5,7 @@
     "date": "2016/03/27",
     "description": "Two Islands, 6 spawns. Can be played 6p ffa, 3v3 unshared (island vs island) 2v2v2 unshared and everything else that includes 6 players ",
     "players": [
+        6,
         6
     ],
     "planets": [
