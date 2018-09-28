@@ -26,6 +26,8 @@
     - Seton's Grip v1.0
   - Removed 3v3 map
     - World's Collide v1.0
+  - Added FFA map
+    - Wadiya - No Crater v1.2
 
 ## 1.3.3 - 2018-02-24
 

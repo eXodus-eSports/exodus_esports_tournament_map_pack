@@ -107,5 +107,6 @@ cShareSystems.load_pas("eXodus 3v3+", [
 cShareSystems.load_pas("eXodus FFA", [
 	"coui://ui/mods/maps/systems/newzealandsbaby.pas",
 	"coui://ui/mods/maps/systems/pockets.pas",
-	"coui://ui/mods/maps/systems/the_somme.pas"
+	"coui://ui/mods/maps/systems/the_somme.pas",
+	"coui://ui/mods/maps/systems/wadiya_no_crater.pas"
 ]);
