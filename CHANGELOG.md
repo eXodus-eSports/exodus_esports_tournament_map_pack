@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 1.4.1 - 2018-09-28
+
+  - Fixed fat fingered typing that caused Solitude to be missing from the map list. Always copy & paste, kids!
+
 ## 1.4.0 - 2018-09-28
 
   - Removed PA League Season 1 tab
