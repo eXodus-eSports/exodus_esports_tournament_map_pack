@@ -36,26 +36,27 @@
 
   - New maps
     - 1v1
-      - Outlier
-      - Pressure Cooker
-      - Thief's Pass
+      - Outlier v1.0
+      - Pressure Cooker v1.1
+      - Thief's Pass v1.0
     - FFA
-      - NewZealandsBaby
-      - Pockets
-      - The Somme
+      - NewZealandsBaby v1.0
+      - Pockets v1.0
+      - The Somme v1.0
 
 ## 1.3.2 - 2018-02-23
 
   - Removed Kure Atoll
-  - Reclassifications
-    - Added T- Kure Atoll to 2v2
   - New maps
     - 3v3
-      - Added Frontlines SA
-      - Added Omega Belt
-      - Added T- Rain System
-      - Added War of the Worlds
-      - Added Worlds Collide
+      - Frontlines SA v1.0
+      - Omega Belt v1.0
+      - T- Rain System v1.0
+      - War of the Worlds v1.0
+      - Worlds Collide v1.0
+  - Reclassified maps
+    - 2v2
+      - T- Kure Atoll v1.0
 
 ## 1.3.1 - 2016-10-29
 
