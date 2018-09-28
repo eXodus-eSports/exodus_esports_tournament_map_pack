@@ -3,54 +3,59 @@
 ##
 
   - Removed PA League Season 1 tab
-  - Moved FFA maps to their own tabs
-  - Fix for Elijahs Path SHARED missing a metal spot near one of the spawns thanks to Grand Homie
-  - Clarified that Mots Recipe For Disaster in 2v2 and 3v3 are different
+  - Moved FFA maps to their own tab
+  - Fix for Elijah's Path SHARED missing a metal spot near one of the spawns with thanks to Grand Homie
+  - Clarified that Mot's Recipe For Disaster in 2v2 and 3v3 are different
   - Removed FFA from map names due to new tab system
   - Fixed map sorting
-  - Fixed duplicate key error in Kinetics Multi
+  - Fixed duplicate key error in Kinetics Multi v4
   - Fixed Kinetics Multi v4 missing from 2v2 map list
-  - New 1v1 maps
-    - Dust 1.0
-    - Solitude 1.0
-  - Updated 1v1 maps
-    - Cauldron v1.1
-    - Cratered v1.1
-    - Kinomo v1.1
-    - The Forgery v1.1
-  - New 2v2 map
-    - Seton's Grip v1.0
-  - Removed 2v2 maps
-    - Elrose System v1.0
-  - New 3v3 map
-    - Seton's Grip v1.0
-  - Removed 3v3 map
-    - World's Collide v1.0
-  - Added FFA map
-    - Wadiya - No Crater v1.2
+  - New maps
+    - 1v1
+      - Dust 1.0
+      - Solitude 1.0
+    - 2v2
+      - Seton's Grip v1.0
+    - 3v3+
+      - Seton's Grip v1.0
+    - FFA
+      - Wadiya - No Crater v1.2
+  - Updated maps
+    - 1v1
+      - Cauldron v1.1
+      - Cratered v1.1
+      - Kinomo v1.1
+      - The Forgery v1.1
+  - Removed maps
+    - 2v2
+      - Elrose System v1.0
+    - 3v3+
+      - World's Collide v1.0
 
 ## 1.3.3 - 2018-02-24
 
-  - New 1v1 maps
-    - Outlier
-    - Pressure Cooker
-    - Thief's Pass
-  - New FFA maps
-    - NewZealandsBaby
-    - Pockets
-    - The Somme
+  - New maps
+    - 1v1
+      - Outlier
+      - Pressure Cooker
+      - Thief's Pass
+    - FFA
+      - NewZealandsBaby
+      - Pockets
+      - The Somme
 
 ## 1.3.2 - 2018-02-23
 
   - Removed Kure Atoll
   - Reclassifications
     - Added T- Kure Atoll to 2v2
-  - New 3v3 maps
-    - Added Frontlines SA
-    - Added Omega Belt
-    - Added T- Rain System
-    - Added War of the Worlds
-    - Added Worlds Collide
+  - New maps
+    - 3v3
+      - Added Frontlines SA
+      - Added Omega Belt
+      - Added T- Rain System
+      - Added War of the Worlds
+      - Added Worlds Collide
 
 ## 1.3.1 - 2016-10-29
 
