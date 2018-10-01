@@ -12,7 +12,9 @@
   "icon": "http://i.imgur.com/gx0DSMK.png",
   "category": [
     "maps",
-    "tournaments"
+    "tournaments",
+    "classic",
+    "titans"
   ],
   "load_planet": [
     "coui://ui/mods/maps/maplist.js"
