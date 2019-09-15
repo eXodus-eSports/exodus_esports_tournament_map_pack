@@ -1,4 +1,3 @@
-/*global cShareSystems*/
 cShareSystems.load_pas("eXodus 1v1", [
   "coui://ui/mods/maps/systems/amazonassafari.pas",
   "coui://ui/mods/maps/systems/aquarius.pas",
