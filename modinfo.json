@@ -10,17 +10,8 @@
   "signature": " ",
   "forum": "https://forums.planetaryannihilation.com/threads/exodus-esports-map-pack.71887/",
   "icon": "http://i.imgur.com/gx0DSMK.png",
-  "category": [
-    "maps",
-    "tournaments",
-    "classic",
-    "titans"
-  ],
-  "load_planet": [
-    "coui://ui/mods/maps/maplist.js"
-  ],
+  "category": ["maps", "tournaments", "classic", "titans"],
+  "load_planet": ["coui://ui/mods/maps/maplist.js"],
   "priority": 100,
-  "dependencies": [
-    "com.pa.conundrum.cShareSystems"
-  ]
+  "dependencies": ["com.pa.conundrum.cShareSystems"]
 }
