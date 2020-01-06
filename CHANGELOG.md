@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## DEV
+
+- **Updated maps**
+  - Seton's Grip is now Seton's Clutch
+
 ## 1.4.1 - 2018-09-28
 
 - Fixed fat fingered typing that caused Solitude to be missing from the map list. Always copy & paste, kids!

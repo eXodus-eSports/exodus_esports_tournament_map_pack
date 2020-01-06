@@ -82,7 +82,7 @@ cShareSystems.load_pas("eXodus 2v2", [
   "coui://ui/mods/maps/systems/kinetics_multi_v4.pas",
   "coui://ui/mods/maps/systems/lockery.pas",
   "coui://ui/mods/maps/systems/mots_recipe_for_disaster_original.pas",
-  "coui://ui/mods/maps/systems/seton's_grip.pas",
+  "coui://ui/mods/maps/systems/seton's_clutch.pas",
   "coui://ui/mods/maps/systems/icy_v17.pas",
   "coui://ui/mods/maps/systems/elrose_v18.pas",
   "coui://ui/mods/maps/systems/t-_kure atoll.pas",
@@ -100,7 +100,7 @@ cShareSystems.load_pas("eXodus 3v3+", [
   "coui://ui/mods/maps/systems/medea.pas",
   "coui://ui/mods/maps/systems/mots_recipe_for_disaster.pas",
   "coui://ui/mods/maps/systems/omega_belt.pas",
-  "coui://ui/mods/maps/systems/seton's_grip.pas",
+  "coui://ui/mods/maps/systems/seton's_clutch.pas",
   "coui://ui/mods/maps/systems/t-_rain_system.pas",
   "coui://ui/mods/maps/systems/twbaby.pas",
   "coui://ui/mods/maps/systems/war_of the worlds.pas"

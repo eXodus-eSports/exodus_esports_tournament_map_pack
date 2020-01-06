@@ -104,7 +104,7 @@ Please help [translate the eXodus eSports Map Pack](https://poeditor.com/join/pr
 | Kinetics Multi v4         |     | MangoMango | 2     |      |
 | Lockery                   | 1.0 | Pwn4two    | 2     |      |
 | Mot's Recipe For Disaster | 1.0 | Mot9001    | 4     |      |
-| Seton's Grip              | 1.0 | WPMarshall | 24    | 2-8  |
+| Seton's Clutch            | 1.1 | WPMarshall | 24    | 2-8  |
 | Soloroid System           | 1.0 | Alpha2546  | 4     |      |
 | T- Elrose System          | 2.0 | Alpha2546  | 4     |      |
 | T- Kure Atoll             | 1.0 | Alpha2546  | 2     |      |
@@ -125,7 +125,7 @@ Please help [translate the eXodus eSports Map Pack](https://poeditor.com/join/pr
 | Medea                                |     | Uber Entertainment | 12    | 6-10 |
 | Mot's Recipe For Disaster (Modified) | 1.1 | Mot9001            | 10    |      |
 | Omega Belt                           | 1.0 | Elite Sardaukar    |       |      |
-| Seton's Grip                         | 1.0 | WPMarshall         | 24    | 2-8  |
+| Seton's Clutch                       | 1.1 | WPMarshall         | 24    | 2-8  |
 | T- Rain System                       | 1.0 | Alpha2546          | 14    |      |
 | TWBaby                               | 1.0 | AndreasG           | 6     |      |
 | War of the Worlds                    | 1.0 | Pwn4two            | 8     |      |
