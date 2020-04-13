@@ -69,7 +69,7 @@ cShareSystems.load_pas("eXodus 1v1", [
   "coui://ui/mods/maps/systems/toisengard.pas",
   "coui://ui/mods/maps/systems/tundra.pas",
   "coui://ui/mods/maps/systems/venetzia.pas",
-  "coui://ui/mods/maps/systems/zetox.pas"
+  "coui://ui/mods/maps/systems/zetox.pas",
 ]);
 cShareSystems.load_pas("eXodus 2v2", [
   "coui://ui/mods/maps/systems/atlantis.pas",
@@ -90,7 +90,7 @@ cShareSystems.load_pas("eXodus 2v2", [
   "coui://ui/mods/maps/systems/the_forgery.pas",
   "coui://ui/mods/maps/systems/the_t3mple_v2.pas",
   "coui://ui/mods/maps/systems/tropicanhoneydonut.pas",
-  "coui://ui/mods/maps/systems/zetox.pas"
+  "coui://ui/mods/maps/systems/zetox.pas",
 ]);
 cShareSystems.load_pas("eXodus 3v3+", [
   "coui://ui/mods/maps/systems/bang_battle.pas",
@@ -103,11 +103,11 @@ cShareSystems.load_pas("eXodus 3v3+", [
   "coui://ui/mods/maps/systems/seton's_clutch.pas",
   "coui://ui/mods/maps/systems/t-_rain_system.pas",
   "coui://ui/mods/maps/systems/twbaby.pas",
-  "coui://ui/mods/maps/systems/war_of the worlds.pas"
+  "coui://ui/mods/maps/systems/war_of the worlds.pas",
 ]);
 cShareSystems.load_pas("eXodus FFA", [
   "coui://ui/mods/maps/systems/newzealandsbaby.pas",
   "coui://ui/mods/maps/systems/pockets.pas",
   "coui://ui/mods/maps/systems/the_somme.pas",
-  "coui://ui/mods/maps/systems/wadiya_no_crater.pas"
+  "coui://ui/mods/maps/systems/wadiya_no_crater.pas",
 ]);
