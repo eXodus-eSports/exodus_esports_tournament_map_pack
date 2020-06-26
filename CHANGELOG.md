@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## DEV
+## 1.4.2 - 2020-06-26
 
 - **Updated maps**
   - Seton's Grip is now Seton's Clutch
