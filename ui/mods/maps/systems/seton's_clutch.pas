@@ -1,7 +1,7 @@
 {
-    "name": "Seton's Grip",
+    "name": "Seton's Clutch",
 	"creator": "WPMarshall",
-	"version": "1.0",
+	"version": "1.1",
 	"date": "2018/08/05",
 	"description": "(Supports: 2 Shared Teams, or 2v2/4v4 UNSHARED) A classic from Supreme Commander, now properly remastered for PA. Be careful of lobby team arrangements",
 	"players": [
@@ -9,7 +9,7 @@
         8    ],
     "planets": [
         {
-            "name": "Iron",
+            "name": "Seton's Clutch",
             "mass": 20000,
             "position_x": 12500,
             "position_y": 0,

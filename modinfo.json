@@ -4,21 +4,14 @@
   "display_name": "eXodus eSports Map Pack",
   "description": "A hand-picked selection of the best maps the community has to offer. Maps are divided between 1v1, 2v2, 3v3+ and FFA. The number of custom landing zones a system has is the maximum number of supported armies. Multiple players on a shared army count as one army. Some maps have recommended player counts as well.",
   "author": "AndreasG, Quitch",
-  "version": "1.4.1",
-  "build": "110069",
-  "date": "2018/09/28",
+  "version": "1.4.2",
+  "build": "114618",
+  "date": "2018/06/26",
   "signature": " ",
   "forum": "https://forums.planetaryannihilation.com/threads/exodus-esports-map-pack.71887/",
   "icon": "http://i.imgur.com/gx0DSMK.png",
-  "category": [
-    "maps",
-    "tournaments"
-  ],
-  "load_planet": [
-    "coui://ui/mods/maps/maplist.js"
-  ],
+  "category": ["maps", "tournaments", "classic", "titans"],
+  "load_planet": ["coui://ui/mods/maps/maplist.js"],
   "priority": 100,
-  "dependencies": [
-    "com.pa.conundrum.cShareSystems"
-  ]
+  "dependencies": ["com.pa.conundrum.cShareSystems"]
 }
