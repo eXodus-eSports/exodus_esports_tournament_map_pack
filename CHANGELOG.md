@@ -4,6 +4,14 @@
 
 - **Updated maps**
   - Seton's Grip is now Seton's Clutch
+- **Removed maps**
+  - 1v1
+    - Berg
+    - Blitz
+    - Duat
+    - Roc
+  - 3v3+
+    - Medea
 
 ## 1.4.1 - 2018-09-28
 
