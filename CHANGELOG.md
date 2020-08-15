@@ -1,6 +1,8 @@
 # CHANGELOG
 
-## 1.4.2 - 2020-06-26
+## [Unreleased]
+
+## [1.4.2] - 2020-06-26
 
 - **Updated maps**
   - Seton's Grip is now Seton's Clutch
@@ -13,11 +15,11 @@
   - 3v3+
     - Medea
 
-## 1.4.1 - 2018-09-28
+## [1.4.1] - 2018-09-28
 
 - Fixed fat fingered typing that caused Solitude to be missing from the map list. Always copy & paste, kids!
 
-## 1.4.0 - 2018-09-28
+## [1.4.0] - 2018-09-28
 
 - Removed PA League Season 1 tab
 - Moved FFA maps to their own tab
@@ -31,7 +33,7 @@
   - 1v1
     - Dust 1.0
     - Solitude 1.0
-  - 2v2
+      ] - 2v2
     - Seton's Grip v1.0
   - 3v3+
     - Seton's Grip v1.0
@@ -44,12 +46,12 @@
     - Kinomo v1.1
     - The Forgery v1.1
 - **Removed maps**
-  - 2v2
-    - Elrose System v1.0
+  ] - 2v2
+  - Elrose System v1.0
   - 3v3+
     - World's Collide v1.0
 
-## 1.3.3 - 2018-02-24
+## [1.3.3] - 2018-02-24
 
 - **New maps**
   - 1v1
@@ -61,7 +63,7 @@
     - Pockets v1.0
     - The Somme v1.0
 
-## 1.3.2 - 2018-02-23
+## [1.3.2] - 2018-02-23
 
 - Removed Kure Atoll
 - **New maps**
@@ -72,29 +74,29 @@
     - War of the Worlds v1.0
     - Worlds Collide v1.0
 - **Reclassified maps**
-  - 2v2
-    - T- Kure Atoll v1.0
+  ] - 2v2
+  - T- Kure Atoll v1.0
 
-## 1.3.1 - 2016-10-29
+## [1.3.1] - 2016-10-29
 
 - Fixed issues with Closair
 - Fixed issues with Ignus
 
-## 1.3.0 - 2016-10-16
+## [1.3.0] - 2016-10-16
 
 - Created tab for PA League season 1
 
-## 1.2.0 - 2016-07-14
+## [1.2.0] - 2016-07-14
 
 - Removed Trials from pack
 - Added Blitz to pack in 1v1
 
-## 1.1.0 - 2016-07-12
+## [1.1.0] - 2016-07-12
 
 - Fixed pathing on Coruscant
 - Added T- Elrose System by Alpha2546 to the pack in the 2v2 section
 
-## 1.0.2 - 2016-07-12
+## [1.0.2] - 2016-07-12
 
 - Added supporting forum thread
 - Fixed 2v2 sort order
@@ -103,6 +105,6 @@
 - Sorted maps alphabetically
 - Renamed third category to 3v3+
 
-## 1.0
+## [1.0
 
 - Initial release
