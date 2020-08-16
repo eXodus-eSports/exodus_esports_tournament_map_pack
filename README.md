@@ -1,20 +1,20 @@
-# [eXodus eSports Map Pack]
+# eXodus eSports Map Pack
 
 A hand-picked selection of the best maps the community has to offer.
 
 Maps are divided between 1v1, 2v2, 3v3+ and FFA. The number of custom landing zones a system has is the maximum number of supported armies. Multiple players on a shared army count as one army. Some maps have recommended player counts as well.
 
-## [Installation]
+## Installation
 
 You should download and install this mod via the Planetary Annihilation TITANS in-game Community Mod Manager. You will need to [enable Community Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=1417396826).
 
-## [Translations]
+## Translations
 
 Please help [translate the eXodus eSports Map Pack](https://poeditor.com/join/project/xaOwEdOIyM) to your local language.
 
-## [Maps]
+## Maps
 
-### [1v1]
+### 1v1
 
 | Map                         | Ver   | Author           | Spawn | Play |
 | --------------------------- | ----- | ---------------- | ----- | ---- |
@@ -86,7 +86,7 @@ Please help [translate the eXodus eSports Map Pack](https://poeditor.com/join/pr
 | Venetzia                    | 1.0   | AndreasG         | 2     |      |
 | Zetox                       | 2.0   | Alpha2546        | 2     |      |
 
-### [2v2]
+### 2v2
 
 | Map                       | Ver | Author     | Spawn | Play |
 | ------------------------- | --- | ---------- | ----- | ---- |
@@ -110,7 +110,7 @@ Please help [translate the eXodus eSports Map Pack](https://poeditor.com/join/pr
 | TropicanHoneyDonut        | 1.0 | AndreasG   | 2     |      |
 | Zetox                     | 2.0 | Alpha2546  | 2     |      |
 
-### [3v3+]
+### 3v3+
 
 | Map                                  | Ver | Author             | Spawn | Play |
 | ------------------------------------ | --- | ------------------ | ----- | ---- |
@@ -125,7 +125,7 @@ Please help [translate the eXodus eSports Map Pack](https://poeditor.com/join/pr
 | TWBaby                               | 1.0 | AndreasG           | 6     |      |
 | War of the Worlds                    | 1.0 | Pwn4two            | 8     |      |
 
-### [FFA]
+### FFA
 
 | Map                | Ver | Author      | Spawn | Play |
 | ------------------ | --- | ----------- | ----- | ---- |
