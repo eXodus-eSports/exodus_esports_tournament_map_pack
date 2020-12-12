@@ -13,5 +13,6 @@
   "category": ["maps", "tournaments", "classic", "titans"],
   "load_planet": ["coui://ui/mods/maps/maplist.js"],
   "priority": 100,
-  "dependencies": ["com.pa.conundrum.cShareSystems"]
+  "dependencies": ["com.pa.conundrum.cShareSystems"],
+  "github": "https://github.com/eXodus-eSports/exodus_esports_tournament_map_pack"
 }
