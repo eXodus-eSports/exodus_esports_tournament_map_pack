@@ -1,7 +1,7 @@
-var exodusEsportsMaps;
+var exodusEsportsMapsLoaded;
 
-if (!exodusEsportsMaps) {
-  exodusEsportsMaps = true;
+if (!exodusEsportsMapsLoaded) {
+  exodusEsportsMapsLoaded = true;
 
   try {
     cShareSystems.load_pas("eXodus 1v1", [
