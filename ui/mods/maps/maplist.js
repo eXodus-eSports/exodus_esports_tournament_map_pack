@@ -112,6 +112,19 @@ if (!exodusEsportsMapsLoaded) {
       "coui://ui/mods/maps/systems/the_somme.pas",
       "coui://ui/mods/maps/systems/wadiya_no_crater.pas",
     ]);
+    cShareSystems.load_pas("eXodus Multiplanetary", [
+      "coui://ui/mods/maps/systems/bang_battle.pas",
+      "coui://ui/mods/maps/systems/burnt_playground.pas",
+      "coui://ui/mods/maps/systems/marshalls_lament_titans.pas",
+      "coui://ui/mods/maps/systems/mots_recipe_for_disaster_original.pas",
+      "coui://ui/mods/maps/systems/mots_recipe_for_disaster.pas",
+      "coui://ui/mods/maps/systems/omega_belt.pas",
+      "coui://ui/mods/maps/systems/icy_v17.pas",
+      "coui://ui/mods/maps/systems/elrose_v18.pas",
+      "coui://ui/mods/maps/systems/t-_rain_system.pas",
+      "coui://ui/mods/maps/systems/twbaby.pas",
+      "coui://ui/mods/maps/systems/war_of the worlds.pas",
+    ]);
   } catch (e) {
     console.error(e);
     console.error(JSON.stringify(e));
