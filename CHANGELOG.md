@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## v1.5.0 - 2021-05-02
+
+- Added a multiplanetary tab to aid users using Shared Systems for Galactic War
+
 ## 1.4.2 - 2020-06-26
 
 - **Updated maps**
