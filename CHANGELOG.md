@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## Unreleased
+## v1.5.1 - 2022-08-08
 
 - Fixed mod icon
 
