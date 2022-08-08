@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## v1.5.1 - 2022-08-08
+
+- Fixed mod icon
+
 ## v1.5.0 - 2021-05-02
 
 - Added a multiplanetary tab to aid users using Shared Systems for Galactic War
