@@ -11,7 +11,9 @@
   "forum": "https://steamcommunity.com/app/386070/discussions/0/2656452469255904659/",
   "icon": "https://raw.githubusercontent.com/eXodus-eSports/exodus_esports_tournament_map_pack/develop/images/icon.jpg",
   "category": ["maps", "tournaments", "classic", "titans"],
-  "load_planet": ["coui://ui/mods/maps/maplist.js"],
+  "scenes": {
+    "load_planet": ["coui://ui/mods/maps/maplist.js"]
+  },
   "priority": 100,
   "dependencies": ["com.pa.conundrum.cShareSystems"],
   "github": "https://github.com/eXodus-eSports/exodus_esports_tournament_map_pack"
