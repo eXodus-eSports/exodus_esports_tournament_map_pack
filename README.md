@@ -8,10 +8,6 @@ Maps are divided between 1v1, 2v2, 3v3+ and FFA. The number of custom landing zo
 
 You should download and install this mod via the Planetary Annihilation TITANS in-game Community Mod Manager. You will need to [enable Community Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=1417396826).
 
-## Translations
-
-Please help [translate the eXodus eSports Map Pack](https://poeditor.com/join/project/xaOwEdOIyM) to your local language.
-
 ## Maps
 
 ### 1v1

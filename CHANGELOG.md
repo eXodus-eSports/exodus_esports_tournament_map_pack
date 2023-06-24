@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## v1.5.2 - 2023-06-24
+
+- Fixed scene formatting in modinfo
+
 ## v1.5.1 - 2022-08-08
 
 - Fixed mod icon
